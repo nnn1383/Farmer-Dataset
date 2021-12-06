@@ -1,0 +1,1213 @@
+,State,County,Temperature,Precipitation,Avg Condition,Target,Nitrogen,Phosphorus,Potasium,pH,Humidity
+68,Arizona,Cochise County,17,91.5,54.25,grapes,19.0,123.0,200.0,81.0,6.2
+70,Arizona,Gila County,16,129.0,72.5,apple,33.0,143.0,204.0,92.0,5.8
+71,Arizona,Graham County,17,98.5,57.75,cotton,113.0,41.0,20.0,80.5,7.3
+72,Arizona,Greenlee County,14,100.25,57.125,cotton,113.0,41.0,20.0,80.5,7.3
+73,Arizona,La Paz County,22,29.25,25.625,muskmelon,95.0,7.0,45.0,90.8,6.0
+74,Arizona,Maricopa County,22,57.25,39.625,lentil,6.0,68.0,18.0,62.5,6.7
+75,Arizona,Mohave County,17,44.5,30.75,mothbeans,36.0,44.0,21.0,51.3,4.5
+76,Arizona,Navajo County,12,63.5,37.75,lentil,6.0,68.0,18.0,62.5,6.7
+78,Arizona,Pinal County,21,80.0,50.5,blackgram,58.0,73.0,16.0,65.7,6.9
+79,Arizona,Santa Cruz County,16,119.5,67.75,apple,33.0,143.0,204.0,92.0,5.8
+80,Arizona,Yavapai County,16,82.0,49.0,blackgram,58.0,73.0,16.0,65.7,6.9
+81,Arizona,Yuma County,23,31.75,27.375,mothbeans,36.0,44.0,21.0,51.3,4.5
+84,Arkansas,Baxter County,14,290.75,152.375,rice,97.0,59.0,43.0,84.0,6.3
+106,Arkansas,Fulton County,14,292.0,153.0,rice,97.0,59.0,43.0,84.0,6.3
+113,Arkansas,Independence County,15,290.25,152.625,rice,97.0,59.0,43.0,84.0,6.3
+114,Arkansas,Izard County,14,282.5,148.25,rice,97.0,59.0,43.0,84.0,6.3
+119,Arkansas,Lawrence County,15,282.5,148.75,rice,97.0,59.0,43.0,84.0,6.3
+134,Arkansas,Perry County,16,285.75,150.875,rice,97.0,59.0,43.0,84.0,6.3
+142,Arkansas,Randolph County,15,280.0,147.5,rice,97.0,59.0,43.0,84.0,6.3
+155,Arkansas,Woodruff County,16,291.5,153.75,rice,97.0,59.0,43.0,84.0,6.3
+156,Arkansas,Yell County,16,280.75,148.375,rice,97.0,59.0,43.0,84.0,6.3
+157,California,Alameda County,16,80.0,48.0,blackgram,58.0,73.0,16.0,65.7,6.9
+158,California,Alpine County,8,190.5,99.25,coconut,40.0,22.0,29.0,100.0,5.7
+159,California,Amador County,16,165.0,90.5,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+160,California,Butte County,16,191.75,103.875,coconut,40.0,22.0,29.0,100.0,5.7
+161,California,Calaveras County,16,149.75,82.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+162,California,Colusa County,18,85.75,51.875,blackgram,58.0,73.0,16.0,65.7,6.9
+167,California,Glenn County,17,90.75,53.875,blackgram,58.0,73.0,16.0,65.7,6.9
+171,California,Kern County,17,27.25,22.125,muskmelon,95.0,7.0,45.0,90.8,6.0
+172,California,Kings County,18,29.75,23.875,muskmelon,95.0,7.0,45.0,90.8,6.0
+173,California,Lake County,15,181.5,98.25,coconut,40.0,22.0,29.0,100.0,5.7
+174,California,Lassen County,9,99.0,54.0,blackgram,58.0,73.0,16.0,65.7,6.9
+175,California,Los Angeles County,17,35.5,26.25,muskmelon,95.0,7.0,45.0,90.8,6.0
+176,California,Madera County,14,83.75,48.875,blackgram,58.0,73.0,16.0,65.7,6.9
+177,California,Marin County,14,134.5,74.25,apple,33.0,143.0,204.0,92.0,5.8
+178,California,Mariposa County,14,120.0,67.0,apple,33.0,143.0,204.0,92.0,5.8
+180,California,Merced County,17,50.25,33.625,lentil,6.0,68.0,18.0,62.5,6.7
+181,California,Modoc County,9,87.75,48.375,blackgram,58.0,73.0,16.0,65.7,6.9
+183,California,Monterey County,15,89.5,52.25,blackgram,58.0,73.0,16.0,65.7,6.9
+184,California,Napa County,16,129.0,72.5,apple,33.0,143.0,204.0,92.0,5.8
+186,California,Orange County,18,36.75,27.375,mothbeans,36.0,44.0,21.0,51.3,4.5
+188,California,Plumas County,9,196.75,102.875,coconut,40.0,22.0,29.0,100.0,5.7
+189,California,Riverside County,21,25.5,23.25,muskmelon,95.0,7.0,45.0,90.8,6.0
+190,California,Sacramento County,17,80.75,48.875,blackgram,58.0,73.0,16.0,65.7,6.9
+193,California,San Diego County,17,57.25,37.125,lentil,6.0,68.0,18.0,62.5,6.7
+194,California,San Francisco County,14,103.5,58.75,cotton,113.0,41.0,20.0,80.5,7.3
+197,California,San Mateo County,14,109.75,61.875,cotton,113.0,41.0,20.0,80.5,7.3
+199,California,Santa Clara County,15,98.5,56.75,cotton,113.0,41.0,20.0,80.5,7.3
+200,California,Santa Cruz County,14,137.75,75.875,apple,33.0,143.0,204.0,92.0,5.8
+203,California,Siskiyou County,10,182.25,96.125,coconut,40.0,22.0,29.0,100.0,5.7
+204,California,Solano County,17,81.25,49.125,blackgram,58.0,73.0,16.0,65.7,6.9
+207,California,Sutter County,18,80.0,49.0,blackgram,58.0,73.0,16.0,65.7,6.9
+208,California,Tehama County,16,149.75,82.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+210,California,Tulare County,13,68.5,40.75,lentil,6.0,68.0,18.0,62.5,6.7
+211,California,Tuolumne County,11,184.25,97.625,coconut,40.0,22.0,29.0,100.0,5.7
+212,California,Ventura County,15,42.5,28.75,mothbeans,36.0,44.0,21.0,51.3,4.5
+213,California,Yolo County,17,82.0,49.5,blackgram,58.0,73.0,16.0,65.7,6.9
+215,Colorado,Adams County,10,95.25,52.625,blackgram,58.0,73.0,16.0,65.7,6.9
+216,Colorado,Alamosa County,7,60.25,33.625,lentil,6.0,68.0,18.0,62.5,6.7
+218,Colorado,Archuleta County,7,126.25,66.625,banana,109.0,91.0,53.0,83.5,6.0
+219,Colorado,Baca County,12,97.25,54.625,grapes,19.0,123.0,200.0,81.0,6.2
+220,Colorado,Bent County,12,87.0,49.5,blackgram,58.0,73.0,16.0,65.7,6.9
+221,Colorado,Boulder County,7,130.25,68.625,apple,33.0,143.0,204.0,92.0,5.8
+222,Colorado,Broomfield County,11,101.0,56.0,cotton,113.0,41.0,20.0,80.5,7.3
+223,Colorado,Chaffee County,3,113.0,58.0,cotton,113.0,41.0,20.0,80.5,7.3
+224,Colorado,Cheyenne County,11,90.75,50.875,blackgram,58.0,73.0,16.0,65.7,6.9
+225,Colorado,Clear Creek County,3,163.75,83.375,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+226,Colorado,Conejos County,5,103.5,54.25,grapes,19.0,123.0,200.0,81.0,6.2
+228,Colorado,Crowley County,11,82.5,46.75,blackgram,58.0,73.0,16.0,65.7,6.9
+229,Colorado,Custer County,6,124.5,65.25,banana,109.0,91.0,53.0,83.5,6.0
+231,Colorado,Denver County,11,94.0,52.5,blackgram,58.0,73.0,16.0,65.7,6.9
+232,Colorado,Dolores County,7,125.0,66.0,banana,109.0,91.0,53.0,83.5,6.0
+233,Colorado,Douglas County,8,113.0,60.5,cotton,113.0,41.0,20.0,80.5,7.3
+234,Colorado,Eagle County,4,127.0,65.5,banana,109.0,91.0,53.0,83.5,6.0
+235,Colorado,Elbert County,9,105.5,57.25,cotton,113.0,41.0,20.0,80.5,7.3
+236,Colorado,El Paso County,9,106.75,57.875,cotton,113.0,41.0,20.0,80.5,7.3
+237,Colorado,Fremont County,7,94.5,50.75,blackgram,58.0,73.0,16.0,65.7,6.9
+238,Colorado,Garfield County,7,116.25,61.625,cotton,113.0,41.0,20.0,80.5,7.3
+239,Colorado,Gilpin County,4,148.0,76.0,apple,33.0,143.0,204.0,92.0,5.8
+240,Colorado,Grand County,3,125.0,64.0,cotton,113.0,41.0,20.0,80.5,7.3
+241,Colorado,Gunnison County,4,127.75,65.875,banana,109.0,91.0,53.0,83.5,6.0
+242,Colorado,Hinsdale County,3,165.0,84.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+243,Colorado,Huerfano County,8,115.5,61.75,cotton,113.0,41.0,20.0,80.5,7.3
+244,Colorado,Jackson County,3,127.0,65.0,banana,109.0,91.0,53.0,83.5,6.0
+245,Colorado,Jefferson County,8,116.75,62.375,cotton,113.0,41.0,20.0,80.5,7.3
+246,Colorado,Kiowa County,11,96.5,53.75,blackgram,58.0,73.0,16.0,65.7,6.9
+247,Colorado,Kit Carson County,11,97.25,54.125,blackgram,58.0,73.0,16.0,65.7,6.9
+248,Colorado,Lake County,2,144.75,73.375,apple,33.0,143.0,204.0,92.0,5.8
+249,Colorado,La Plata County,8,118.75,63.375,cotton,113.0,41.0,20.0,80.5,7.3
+250,Colorado,Larimer County,6,125.0,65.5,banana,109.0,91.0,53.0,83.5,6.0
+251,Colorado,Las Animas County,11,102.25,56.625,cotton,113.0,41.0,20.0,80.5,7.3
+252,Colorado,Lincoln County,11,82.5,46.75,blackgram,58.0,73.0,16.0,65.7,6.9
+253,Colorado,Logan County,11,94.0,52.5,blackgram,58.0,73.0,16.0,65.7,6.9
+254,Colorado,Mesa County,9,96.0,52.5,blackgram,58.0,73.0,16.0,65.7,6.9
+255,Colorado,Mineral County,3,165.0,84.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+256,Colorado,Moffat County,7,81.25,44.125,chickpea,38.0,60.0,76.0,17.8,8.9
+257,Colorado,Montezuma County,9,90.25,49.625,blackgram,58.0,73.0,16.0,65.7,6.9
+258,Colorado,Montrose County,9,88.25,48.625,blackgram,58.0,73.0,16.0,65.7,6.9
+259,Colorado,Morgan County,10,83.25,46.625,blackgram,58.0,73.0,16.0,65.7,6.9
+260,Colorado,Otero County,12,84.5,48.25,blackgram,58.0,73.0,16.0,65.7,6.9
+261,Colorado,Ouray County,6,124.5,65.25,banana,109.0,91.0,53.0,83.5,6.0
+262,Colorado,Park County,3,116.25,59.625,cotton,113.0,41.0,20.0,80.5,7.3
+263,Colorado,Phillips County,11,114.25,62.625,cotton,113.0,41.0,20.0,80.5,7.3
+264,Colorado,Pitkin County,3,162.5,82.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+265,Colorado,Prowers County,12,106.0,59.0,cotton,113.0,41.0,20.0,80.5,7.3
+266,Colorado,Pueblo County,11,98.5,54.75,grapes,19.0,123.0,200.0,81.0,6.2
+267,Colorado,Rio Blanco County,7,103.5,55.25,grapes,19.0,123.0,200.0,81.0,6.2
+268,Colorado,Rio Grande County,5,83.25,44.125,chickpea,38.0,60.0,76.0,17.8,8.9
+269,Colorado,Routt County,5,127.0,66.0,banana,109.0,91.0,53.0,83.5,6.0
+270,Colorado,Saguache County,4,99.0,51.5,blackgram,58.0,73.0,16.0,65.7,6.9
+272,Colorado,San Miguel County,8,103.5,55.75,cotton,113.0,41.0,20.0,80.5,7.3
+273,Colorado,Sedgwick County,11,110.5,60.75,cotton,113.0,41.0,20.0,80.5,7.3
+274,Colorado,Summit County,2,151.25,76.625,apple,33.0,143.0,204.0,92.0,5.8
+275,Colorado,Teller County,4,131.5,67.75,apple,33.0,143.0,204.0,92.0,5.8
+276,Colorado,Washington County,11,97.25,54.125,blackgram,58.0,73.0,16.0,65.7,6.9
+277,Colorado,Weld County,9,84.5,46.75,blackgram,58.0,73.0,16.0,65.7,6.9
+278,Colorado,Yuma County,11,103.5,57.25,cotton,113.0,41.0,20.0,80.5,7.3
+316,Florida,Highlands County,23,282.5,152.75,rice,97.0,59.0,43.0,84.0,6.3
+338,Florida,Osceola County,23,270.5,146.75,rice,97.0,59.0,43.0,84.0,6.3
+342,Florida,Polk County,23,279.5,151.25,rice,97.0,59.0,43.0,84.0,6.3
+473,Georgia,Putnam County,18,288.25,153.125,rice,97.0,59.0,43.0,84.0,6.3
+516,Idaho,Ada County,12,78.0,45.0,blackgram,58.0,73.0,16.0,65.7,6.9
+517,Idaho,Adams County,7,161.25,84.125,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+518,Idaho,Bannock County,8,99.0,53.5,blackgram,58.0,73.0,16.0,65.7,6.9
+519,Idaho,Bear Lake County,5,129.5,67.25,apple,33.0,143.0,204.0,92.0,5.8
+520,Idaho,Benewah County,8,133.25,70.625,apple,33.0,143.0,204.0,92.0,5.8
+522,Idaho,Blaine County,6,89.0,47.5,blackgram,58.0,73.0,16.0,65.7,6.9
+523,Idaho,Boise County,7,165.0,86.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+525,Idaho,Bonneville County,6,131.5,68.75,apple,33.0,143.0,204.0,92.0,5.8
+526,Idaho,Boundary County,6,198.0,102.0,coconut,40.0,22.0,29.0,100.0,5.7
+527,Idaho,Butte County,6,62.75,34.375,lentil,6.0,68.0,18.0,62.5,6.7
+528,Idaho,Camas County,6,123.75,64.875,cotton,113.0,41.0,20.0,80.5,7.3
+529,Idaho,Canyon County,12,56.5,34.25,lentil,6.0,68.0,18.0,62.5,6.7
+530,Idaho,Caribou County,6,134.5,70.25,apple,33.0,143.0,204.0,92.0,5.8
+531,Idaho,Cassia County,8,79.5,43.75,chickpea,38.0,60.0,76.0,17.8,8.9
+532,Idaho,Clark County,5,86.25,45.625,blackgram,58.0,73.0,16.0,65.7,6.9
+533,Idaho,Clearwater County,7,219.0,113.0,coffee,91.0,21.0,26.0,57.4,7.3
+534,Idaho,Custer County,4,109.75,56.875,cotton,113.0,41.0,20.0,80.5,7.3
+535,Idaho,Elmore County,9,114.25,61.625,cotton,113.0,41.0,20.0,80.5,7.3
+536,Idaho,Franklin County,7,121.25,64.125,cotton,113.0,41.0,20.0,80.5,7.3
+537,Idaho,Fremont County,4,116.75,60.375,cotton,113.0,41.0,20.0,80.5,7.3
+538,Idaho,Gem County,10,111.0,60.5,cotton,113.0,41.0,20.0,80.5,7.3
+539,Idaho,Gooding County,11,57.25,34.125,lentil,6.0,68.0,18.0,62.5,6.7
+540,Idaho,Idaho County,6,188.0,97.0,coconut,40.0,22.0,29.0,100.0,5.7
+541,Idaho,Jefferson County,7,53.25,30.125,mothbeans,36.0,44.0,21.0,51.3,4.5
+542,Idaho,Jerome County,11,47.5,29.25,mothbeans,36.0,44.0,21.0,51.3,4.5
+545,Idaho,Lemhi County,5,100.25,52.625,blackgram,58.0,73.0,16.0,65.7,6.9
+546,Idaho,Lewis County,8,111.75,59.875,cotton,113.0,41.0,20.0,80.5,7.3
+547,Idaho,Lincoln County,9,47.0,28.0,mothbeans,36.0,44.0,21.0,51.3,4.5
+548,Idaho,Madison County,6,90.25,48.125,blackgram,58.0,73.0,16.0,65.7,6.9
+549,Idaho,Minidoka County,9,49.0,29.0,mothbeans,36.0,44.0,21.0,51.3,4.5
+550,Idaho,Nez Perce County,10,98.5,54.25,grapes,19.0,123.0,200.0,81.0,6.2
+551,Idaho,Oneida County,8,91.5,49.75,blackgram,58.0,73.0,16.0,65.7,6.9
+552,Idaho,Owyhee County,9,65.5,37.25,lentil,6.0,68.0,18.0,62.5,6.7
+554,Idaho,Power County,8,82.5,45.25,blackgram,58.0,73.0,16.0,65.7,6.9
+556,Idaho,Teton County,5,149.75,77.375,kidneybeans,25.0,76.0,24.0,24.9,5.6
+557,Idaho,Twin Falls County,9,61.0,35.0,lentil,6.0,68.0,18.0,62.5,6.7
+558,Idaho,Valley County,4,169.5,86.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+559,Idaho,Washington County,9,116.25,62.625,cotton,113.0,41.0,20.0,80.5,7.3
+561,Illinois,Alexander County,14,282.0,148.0,rice,97.0,59.0,43.0,84.0,6.3
+563,Illinois,Boone County,10,171.5,90.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+566,Illinois,Calhoun County,13,292.75,152.875,rice,97.0,59.0,43.0,84.0,6.3
+567,Illinois,Carroll County,10,193.75,101.875,coconut,40.0,22.0,29.0,100.0,5.7
+568,Illinois,Cass County,12,293.25,152.625,rice,97.0,59.0,43.0,84.0,6.3
+569,Illinois,Champaign County,12,288.25,150.125,rice,97.0,59.0,43.0,84.0,6.3
+575,Illinois,Cook County,11,201.25,106.125,coffee,91.0,21.0,26.0,57.4,7.3
+576,Illinois,Crawford County,13,294.0,153.5,rice,97.0,59.0,43.0,84.0,6.3
+578,Illinois,DeKalb County,10,189.25,99.625,coconut,40.0,22.0,29.0,100.0,5.7
+580,Illinois,Douglas County,12,287.75,149.875,rice,97.0,59.0,43.0,84.0,6.3
+581,Illinois,DuPage County,11,200.75,105.875,coconut,40.0,22.0,29.0,100.0,5.7
+582,Illinois,Edgar County,12,292.75,152.375,rice,97.0,59.0,43.0,84.0,6.3
+588,Illinois,Fulton County,12,285.0,148.5,rice,97.0,59.0,43.0,84.0,6.3
+593,Illinois,Hancock County,12,280.75,146.375,rice,97.0,59.0,43.0,84.0,6.3
+594,Illinois,Hardin County,14,286.5,150.25,rice,97.0,59.0,43.0,84.0,6.3
+602,Illinois,Jo Daviess County,9,191.75,100.375,coconut,40.0,22.0,29.0,100.0,5.7
+603,Illinois,Johnson County,14,285.75,149.875,rice,97.0,59.0,43.0,84.0,6.3
+604,Illinois,Kane County,10,191.25,100.625,coconut,40.0,22.0,29.0,100.0,5.7
+606,Illinois,Kendall County,11,210.75,110.875,coffee,91.0,21.0,26.0,57.4,7.3
+607,Illinois,Knox County,11,291.5,151.25,rice,97.0,59.0,43.0,84.0,6.3
+608,Illinois,Lake County,11,166.25,88.625,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+611,Illinois,Lee County,10,201.25,105.625,coconut,40.0,22.0,29.0,100.0,5.7
+614,Illinois,McDonough County,11,282.5,146.75,rice,97.0,59.0,43.0,84.0,6.3
+615,Illinois,McHenry County,10,171.5,90.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+616,Illinois,McLean County,11,279.5,145.25,rice,97.0,59.0,43.0,84.0,6.3
+622,Illinois,Mason County,12,285.75,148.875,rice,97.0,59.0,43.0,84.0,6.3
+624,Illinois,Menard County,12,287.0,149.5,rice,97.0,59.0,43.0,84.0,6.3
+627,Illinois,Montgomery County,12,280.0,146.0,rice,97.0,59.0,43.0,84.0,6.3
+629,Illinois,Moultrie County,12,294.75,153.375,rice,97.0,59.0,43.0,84.0,6.3
+631,Illinois,Peoria County,12,286.5,149.25,rice,97.0,59.0,43.0,84.0,6.3
+633,Illinois,Piatt County,12,283.25,147.625,rice,97.0,59.0,43.0,84.0,6.3
+638,Illinois,Randolph County,13,287.0,150.0,rice,97.0,59.0,43.0,84.0,6.3
+642,Illinois,Saline County,13,285.75,149.375,rice,97.0,59.0,43.0,84.0,6.3
+647,Illinois,Stark County,11,290.25,150.625,rice,97.0,59.0,43.0,84.0,6.3
+648,Illinois,Stephenson County,9,184.75,96.875,coconut,40.0,22.0,29.0,100.0,5.7
+650,Illinois,Union County,14,289.0,151.5,rice,97.0,59.0,43.0,84.0,6.3
+651,Illinois,Vermilion County,11,294.75,152.875,rice,97.0,59.0,43.0,84.0,6.3
+654,Illinois,Washington County,13,280.0,146.5,rice,97.0,59.0,43.0,84.0,6.3
+656,Illinois,White County,13,287.0,150.0,rice,97.0,59.0,43.0,84.0,6.3
+657,Illinois,Whiteside County,11,202.0,106.5,coffee,91.0,21.0,26.0,57.4,7.3
+660,Illinois,Winnebago County,10,165.0,87.5,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+672,Indiana,Clay County,12,283.25,147.625,rice,97.0,59.0,43.0,84.0,6.3
+673,Indiana,Clinton County,11,278.75,144.875,rice,97.0,59.0,43.0,84.0,6.3
+675,Indiana,Daviess County,13,282.5,147.75,rice,97.0,59.0,43.0,84.0,6.3
+682,Indiana,Fayette County,12,293.25,152.625,rice,97.0,59.0,43.0,84.0,6.3
+684,Indiana,Fountain County,11,287.75,149.375,rice,97.0,59.0,43.0,84.0,6.3
+685,Indiana,Franklin County,12,288.25,150.125,rice,97.0,59.0,43.0,84.0,6.3
+686,Indiana,Fulton County,11,280.75,145.875,rice,97.0,59.0,43.0,84.0,6.3
+687,Indiana,Gibson County,13,292.0,152.5,rice,97.0,59.0,43.0,84.0,6.3
+689,Indiana,Greene County,12,291.5,151.75,rice,97.0,59.0,43.0,84.0,6.3
+690,Indiana,Hamilton County,12,279.5,145.75,rice,97.0,59.0,43.0,84.0,6.3
+691,Indiana,Hancock County,12,284.5,148.25,rice,97.0,59.0,43.0,84.0,6.3
+693,Indiana,Hendricks County,12,290.25,151.125,rice,97.0,59.0,43.0,84.0,6.3
+695,Indiana,Howard County,11,277.5,144.25,rice,97.0,59.0,43.0,84.0,6.3
+703,Indiana,Knox County,13,289.5,151.25,rice,97.0,59.0,43.0,84.0,6.3
+709,Indiana,Madison County,12,280.0,146.0,rice,97.0,59.0,43.0,84.0,6.3
+710,Indiana,Marion County,12,293.25,152.625,rice,97.0,59.0,43.0,84.0,6.3
+711,Indiana,Marshall County,11,278.25,144.625,rice,97.0,59.0,43.0,84.0,6.3
+724,Indiana,Pike County,13,285.0,149.0,rice,97.0,59.0,43.0,84.0,6.3
+728,Indiana,Putnam County,12,284.5,148.25,rice,97.0,59.0,43.0,84.0,6.3
+731,Indiana,Rush County,12,294.0,153.0,rice,97.0,59.0,43.0,84.0,6.3
+735,Indiana,Spencer County,13,290.75,151.875,rice,97.0,59.0,43.0,84.0,6.3
+738,Indiana,Sullivan County,13,283.75,148.375,rice,97.0,59.0,43.0,84.0,6.3
+740,Indiana,Tippecanoe County,11,278.75,144.875,rice,97.0,59.0,43.0,84.0,6.3
+741,Indiana,Tipton County,11,289.0,150.0,rice,97.0,59.0,43.0,84.0,6.3
+742,Indiana,Union County,12,285.75,148.875,rice,97.0,59.0,43.0,84.0,6.3
+744,Indiana,Vermillion County,12,288.25,150.125,rice,97.0,59.0,43.0,84.0,6.3
+745,Indiana,Vigo County,12,280.0,146.0,rice,97.0,59.0,43.0,84.0,6.3
+747,Indiana,Warren County,11,283.75,147.375,rice,97.0,59.0,43.0,84.0,6.3
+748,Indiana,Warrick County,13,277.5,145.25,rice,97.0,59.0,43.0,84.0,6.3
+754,Iowa,Adair County,10,214.75,112.375,coffee,91.0,21.0,26.0,57.4,7.3
+756,Iowa,Allamakee County,9,196.25,102.625,coconut,40.0,22.0,29.0,100.0,5.7
+757,Iowa,Appanoose County,11,281.25,146.125,rice,97.0,59.0,43.0,84.0,6.3
+758,Iowa,Audubon County,9,205.75,107.375,coffee,91.0,21.0,26.0,57.4,7.3
+760,Iowa,Black Hawk County,9,170.75,89.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+761,Iowa,Boone County,10,181.5,95.75,jute,86.0,40.0,39.0,88.2,6.2
+762,Iowa,Bremer County,9,196.25,102.625,coconut,40.0,22.0,29.0,100.0,5.7
+763,Iowa,Buchanan County,9,189.25,99.125,coconut,40.0,22.0,29.0,100.0,5.7
+764,Iowa,Buena Vista County,9,184.25,96.625,coconut,40.0,22.0,29.0,100.0,5.7
+766,Iowa,Calhoun County,9,193.0,101.0,coconut,40.0,22.0,29.0,100.0,5.7
+767,Iowa,Carroll County,10,185.5,97.75,coconut,40.0,22.0,29.0,100.0,5.7
+768,Iowa,Cass County,10,202.5,106.25,coffee,91.0,21.0,26.0,57.4,7.3
+769,Iowa,Cedar County,9,205.75,107.375,coffee,91.0,21.0,26.0,57.4,7.3
+770,Iowa,Cerro Gordo County,9,196.75,102.875,coconut,40.0,22.0,29.0,100.0,5.7
+771,Iowa,Cherokee County,9,184.25,96.625,coconut,40.0,22.0,29.0,100.0,5.7
+774,Iowa,Clay County,9,193.75,101.375,coconut,40.0,22.0,29.0,100.0,5.7
+775,Iowa,Clayton County,9,188.0,98.5,coconut,40.0,22.0,29.0,100.0,5.7
+776,Iowa,Clinton County,11,200.75,105.875,coconut,40.0,22.0,29.0,100.0,5.7
+777,Iowa,Crawford County,9,184.25,96.625,coconut,40.0,22.0,29.0,100.0,5.7
+778,Iowa,Dallas County,11,199.5,105.25,coconut,40.0,22.0,29.0,100.0,5.7
+781,Iowa,Delaware County,9,195.5,102.25,coconut,40.0,22.0,29.0,100.0,5.7
+782,Iowa,Des Moines County,11,284.5,147.75,rice,97.0,59.0,43.0,84.0,6.3
+784,Iowa,Dubuque County,9,184.25,96.625,coconut,40.0,22.0,29.0,100.0,5.7
+786,Iowa,Fayette County,8,198.75,103.375,coconut,40.0,22.0,29.0,100.0,5.7
+787,Iowa,Floyd County,9,217.25,113.125,coffee,91.0,21.0,26.0,57.4,7.3
+790,Iowa,Greene County,10,187.25,98.625,coconut,40.0,22.0,29.0,100.0,5.7
+792,Iowa,Guthrie County,10,196.75,103.375,coconut,40.0,22.0,29.0,100.0,5.7
+794,Iowa,Hancock County,9,195.0,102.0,coconut,40.0,22.0,29.0,100.0,5.7
+795,Iowa,Hardin County,9,171.5,90.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+798,Iowa,Howard County,8,213.25,110.625,coffee,91.0,21.0,26.0,57.4,7.3
+799,Iowa,Humboldt County,9,184.75,96.875,coconut,40.0,22.0,29.0,100.0,5.7
+801,Iowa,Iowa County,10,195.5,102.75,coconut,40.0,22.0,29.0,100.0,5.7
+802,Iowa,Jackson County,10,207.0,108.5,coffee,91.0,21.0,26.0,57.4,7.3
+803,Iowa,Jasper County,10,190.5,100.25,coconut,40.0,22.0,29.0,100.0,5.7
+805,Iowa,Johnson County,9,208.25,108.625,coffee,91.0,21.0,26.0,57.4,7.3
+806,Iowa,Jones County,9,192.5,100.75,coconut,40.0,22.0,29.0,100.0,5.7
+809,Iowa,Lee County,11,290.25,150.625,rice,97.0,59.0,43.0,84.0,6.3
+810,Iowa,Linn County,9,195.0,102.0,coconut,40.0,22.0,29.0,100.0,5.7
+816,Iowa,Marion County,11,212.75,111.875,coffee,91.0,21.0,26.0,57.4,7.3
+817,Iowa,Marshall County,9,165.75,87.375,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+820,Iowa,Monona County,10,197.5,103.75,coconut,40.0,22.0,29.0,100.0,5.7
+823,Iowa,Muscatine County,10,216.0,113.0,coffee,91.0,21.0,26.0,57.4,7.3
+824,Iowa,O'Brien County,9,184.25,96.625,coconut,40.0,22.0,29.0,100.0,5.7
+827,Iowa,Palo Alto County,9,191.25,100.125,coconut,40.0,22.0,29.0,100.0,5.7
+828,Iowa,Plymouth County,9,158.75,83.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+829,Iowa,Pocahontas County,9,184.25,96.625,coconut,40.0,22.0,29.0,100.0,5.7
+830,Iowa,Polk County,11,195.5,103.25,coconut,40.0,22.0,29.0,100.0,5.7
+831,Iowa,Pottawattamie County,11,212.0,111.5,coffee,91.0,21.0,26.0,57.4,7.3
+832,Iowa,Poweshiek County,10,196.75,103.375,coconut,40.0,22.0,29.0,100.0,5.7
+834,Iowa,Sac County,9,186.75,97.875,coconut,40.0,22.0,29.0,100.0,5.7
+835,Iowa,Scott County,11,210.75,110.875,coffee,91.0,21.0,26.0,57.4,7.3
+836,Iowa,Shelby County,10,198.75,104.375,coconut,40.0,22.0,29.0,100.0,5.7
+848,Iowa,Winnebago County,8,174.5,91.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+849,Iowa,Winneshiek County,8,195.0,101.5,coconut,40.0,22.0,29.0,100.0,5.7
+850,Iowa,Woodbury County,9,172.0,90.5,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+851,Iowa,Worth County,8,196.75,102.375,coconut,40.0,22.0,29.0,100.0,5.7
+852,Iowa,Wright County,9,193.75,101.375,coconut,40.0,22.0,29.0,100.0,5.7
+856,Kansas,Barber County,14,162.5,88.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+857,Kansas,Barton County,13,179.75,96.375,coconut,40.0,22.0,29.0,100.0,5.7
+864,Kansas,Cheyenne County,11,94.5,52.75,blackgram,58.0,73.0,16.0,65.7,6.9
+865,Kansas,Clark County,14,127.0,70.5,apple,33.0,143.0,204.0,92.0,5.8
+867,Kansas,Cloud County,13,163.75,88.375,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+868,Kansas,Coffey County,13,277.5,145.25,rice,97.0,59.0,43.0,84.0,6.3
+869,Kansas,Comanche County,14,155.5,84.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+872,Kansas,Decatur County,12,111.0,61.5,cotton,113.0,41.0,20.0,80.5,7.3
+873,Kansas,Dickinson County,13,200.75,106.875,coffee,91.0,21.0,26.0,57.4,7.3
+875,Kansas,Douglas County,13,289.0,151.0,rice,97.0,59.0,43.0,84.0,6.3
+878,Kansas,Ellis County,13,165.75,89.375,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+879,Kansas,Ellsworth County,13,179.75,96.375,coconut,40.0,22.0,29.0,100.0,5.7
+880,Kansas,Finney County,13,108.0,60.5,cotton,113.0,41.0,20.0,80.5,7.3
+881,Kansas,Ford County,13,150.5,81.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+883,Kansas,Geary County,13,197.5,105.25,coconut,40.0,22.0,29.0,100.0,5.7
+884,Kansas,Gove County,12,115.5,63.75,cotton,113.0,41.0,20.0,80.5,7.3
+885,Kansas,Graham County,12,120.75,66.375,banana,109.0,91.0,53.0,83.5,6.0
+886,Kansas,Grant County,13,112.5,62.75,cotton,113.0,41.0,20.0,80.5,7.3
+887,Kansas,Gray County,13,126.25,69.625,apple,33.0,143.0,204.0,92.0,5.8
+888,Kansas,Greeley County,12,132.0,72.0,apple,33.0,143.0,204.0,92.0,5.8
+890,Kansas,Hamilton County,12,114.25,63.125,cotton,113.0,41.0,20.0,80.5,7.3
+891,Kansas,Harper County,14,166.25,90.125,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+893,Kansas,Haskell County,13,120.0,66.5,banana,109.0,91.0,53.0,83.5,6.0
+894,Kansas,Hodgeman County,13,153.75,83.375,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+895,Kansas,Jackson County,12,212.75,112.375,coffee,91.0,21.0,26.0,57.4,7.3
+899,Kansas,Kearny County,13,114.25,63.625,cotton,113.0,41.0,20.0,80.5,7.3
+900,Kansas,Kingman County,14,193.0,103.5,coconut,40.0,22.0,29.0,100.0,5.7
+901,Kansas,Kiowa County,13,164.5,88.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+902,Kansas,Labette County,14,292.0,153.0,rice,97.0,59.0,43.0,84.0,6.3
+903,Kansas,Lane County,13,119.5,66.25,banana,109.0,91.0,53.0,83.5,6.0
+907,Kansas,Logan County,12,139.75,75.875,apple,33.0,143.0,204.0,92.0,5.8
+909,Kansas,McPherson County,14,207.75,110.875,coffee,91.0,21.0,26.0,57.4,7.3
+910,Kansas,Marion County,13,208.25,110.625,coffee,91.0,21.0,26.0,57.4,7.3
+911,Kansas,Marshall County,12,183.5,97.75,coconut,40.0,22.0,29.0,100.0,5.7
+912,Kansas,Meade County,13,139.75,76.375,apple,33.0,143.0,204.0,92.0,5.8
+914,Kansas,Mitchell County,13,153.75,83.375,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+917,Kansas,Morton County,13,90.25,51.625,blackgram,58.0,73.0,16.0,65.7,6.9
+918,Kansas,Nemaha County,12,193.75,102.875,coconut,40.0,22.0,29.0,100.0,5.7
+920,Kansas,Ness County,13,139.75,76.375,apple,33.0,143.0,204.0,92.0,5.8
+921,Kansas,Norton County,12,133.25,72.625,apple,33.0,143.0,204.0,92.0,5.8
+922,Kansas,Osage County,13,286.5,149.75,rice,97.0,59.0,43.0,84.0,6.3
+923,Kansas,Osborne County,12,164.5,88.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+926,Kansas,Phillips County,12,125.75,68.875,apple,33.0,143.0,204.0,92.0,5.8
+927,Kansas,Pottawatomie County,13,194.25,103.625,coconut,40.0,22.0,29.0,100.0,5.7
+930,Kansas,Reno County,13,194.25,103.625,coconut,40.0,22.0,29.0,100.0,5.7
+932,Kansas,Rice County,13,190.5,101.75,coconut,40.0,22.0,29.0,100.0,5.7
+933,Kansas,Riley County,13,192.5,102.75,coconut,40.0,22.0,29.0,100.0,5.7
+934,Kansas,Rooks County,12,143.5,77.75,kidneybeans,25.0,76.0,24.0,24.9,5.6
+937,Kansas,Saline County,14,187.25,100.625,coconut,40.0,22.0,29.0,100.0,5.7
+938,Kansas,Scott County,12,118.0,65.0,banana,109.0,91.0,53.0,83.5,6.0
+939,Kansas,Sedgwick County,14,205.75,109.875,coffee,91.0,21.0,26.0,57.4,7.3
+940,Kansas,Seward County,13,125.0,69.0,apple,33.0,143.0,204.0,92.0,5.8
+942,Kansas,Sheridan County,12,111.0,61.5,cotton,113.0,41.0,20.0,80.5,7.3
+943,Kansas,Sherman County,11,105.5,58.25,cotton,113.0,41.0,20.0,80.5,7.3
+944,Kansas,Smith County,12,165.0,88.5,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+945,Kansas,Stafford County,13,189.25,101.125,coconut,40.0,22.0,29.0,100.0,5.7
+946,Kansas,Stanton County,13,97.25,55.125,grapes,19.0,123.0,200.0,81.0,6.2
+947,Kansas,Stevens County,13,114.25,63.625,cotton,113.0,41.0,20.0,80.5,7.3
+948,Kansas,Sumner County,14,196.75,105.375,coconut,40.0,22.0,29.0,100.0,5.7
+949,Kansas,Thomas County,12,110.5,61.25,cotton,113.0,41.0,20.0,80.5,7.3
+950,Kansas,Trego County,12,116.75,64.375,cotton,113.0,41.0,20.0,80.5,7.3
+952,Kansas,Wallace County,12,123.75,67.875,apple,33.0,143.0,204.0,92.0,5.8
+953,Kansas,Washington County,12,179.75,95.875,jute,86.0,40.0,39.0,88.2,6.2
+954,Kansas,Wichita County,12,126.25,69.125,apple,33.0,143.0,204.0,92.0,5.8
+961,Kentucky,Ballard County,14,292.0,153.0,rice,97.0,59.0,43.0,84.0,6.3
+976,Kentucky,Campbell County,13,283.25,148.125,rice,97.0,59.0,43.0,84.0,6.3
+998,Kentucky,Grant County,13,290.25,151.625,rice,97.0,59.0,43.0,84.0,6.3
+1011,Kentucky,Hopkins County,14,289.5,151.75,rice,97.0,59.0,43.0,84.0,6.3
+1015,Kentucky,Johnson County,13,290.75,151.875,rice,97.0,59.0,43.0,84.0,6.3
+1016,Kentucky,Kenton County,13,290.25,151.625,rice,97.0,59.0,43.0,84.0,6.3
+1021,Kentucky,Lawrence County,13,285.75,149.375,rice,97.0,59.0,43.0,84.0,6.3
+1053,Kentucky,Pendleton County,13,286.5,149.75,rice,97.0,59.0,43.0,84.0,6.3
+1067,Kentucky,Todd County,14,293.25,153.625,rice,97.0,59.0,43.0,84.0,6.3
+1142,Maine,Androscoggin County,8,295.25,151.625,rice,97.0,59.0,43.0,84.0,6.3
+1147,Maine,Kennebec County,8,290.75,149.375,rice,97.0,59.0,43.0,84.0,6.3
+1151,Maine,Penobscot County,7,282.0,144.5,rice,97.0,59.0,43.0,84.0,6.3
+1156,Maine,Washington County,8,298.5,153.25,rice,97.0,59.0,43.0,84.0,6.3
+1168,Maryland,Garrett County,10,278.75,144.375,rice,97.0,59.0,43.0,84.0,6.3
+1178,Maryland,Washington County,13,280.0,146.5,rice,97.0,59.0,43.0,84.0,6.3
+1192,Massachusetts,Nantucket County,12,293.25,152.625,rice,97.0,59.0,43.0,84.0,6.3
+1199,Michigan,Allegan County,11,216.0,113.5,coffee,91.0,21.0,26.0,57.4,7.3
+1200,Michigan,Alpena County,8,173.25,90.625,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1201,Michigan,Antrim County,8,198.75,103.375,coconut,40.0,22.0,29.0,100.0,5.7
+1202,Michigan,Arenac County,9,194.25,101.625,coconut,40.0,22.0,29.0,100.0,5.7
+1205,Michigan,Bay County,9,203.75,106.375,coffee,91.0,21.0,26.0,57.4,7.3
+1206,Michigan,Benzie County,9,201.25,105.125,coconut,40.0,22.0,29.0,100.0,5.7
+1211,Michigan,Charlevoix County,8,195.0,101.5,coconut,40.0,22.0,29.0,100.0,5.7
+1213,Michigan,Chippewa County,7,186.0,96.5,coconut,40.0,22.0,29.0,100.0,5.7
+1214,Michigan,Clare County,8,209.0,108.5,coffee,91.0,21.0,26.0,57.4,7.3
+1216,Michigan,Crawford County,8,194.25,101.125,coconut,40.0,22.0,29.0,100.0,5.7
+1217,Michigan,Delta County,7,173.25,90.125,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1218,Michigan,Dickinson County,6,150.5,78.25,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1220,Michigan,Emmet County,8,193.75,100.875,coconut,40.0,22.0,29.0,100.0,5.7
+1222,Michigan,Gladwin County,9,200.75,104.875,coconut,40.0,22.0,29.0,100.0,5.7
+1223,Michigan,Gogebic County,6,173.25,89.625,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1224,Michigan,Grand Traverse County,9,198.75,103.875,coconut,40.0,22.0,29.0,100.0,5.7
+1227,Michigan,Houghton County,6,165.0,85.5,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1228,Michigan,Huron County,9,193.0,101.0,coconut,40.0,22.0,29.0,100.0,5.7
+1231,Michigan,Iosco County,8,194.25,101.125,coconut,40.0,22.0,29.0,100.0,5.7
+1232,Michigan,Iron County,5,167.75,86.375,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1233,Michigan,Isabella County,9,207.75,108.375,coffee,91.0,21.0,26.0,57.4,7.3
+1236,Michigan,Kalkaska County,8,207.75,107.875,coffee,91.0,21.0,26.0,57.4,7.3
+1241,Michigan,Leelanau County,9,199.5,104.25,coconut,40.0,22.0,29.0,100.0,5.7
+1244,Michigan,Luce County,6,173.25,89.625,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1245,Michigan,Mackinac County,7,186.0,96.5,coconut,40.0,22.0,29.0,100.0,5.7
+1247,Michigan,Manistee County,9,217.25,113.125,coffee,91.0,21.0,26.0,57.4,7.3
+1248,Michigan,Marquette County,6,164.5,85.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1249,Michigan,Mason County,9,206.5,107.75,coffee,91.0,21.0,26.0,57.4,7.3
+1250,Michigan,Mecosta County,8,203.25,105.625,coconut,40.0,22.0,29.0,100.0,5.7
+1251,Michigan,Menominee County,7,165.0,86.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1252,Michigan,Midland County,9,206.5,107.75,coffee,91.0,21.0,26.0,57.4,7.3
+1253,Michigan,Missaukee County,8,217.25,112.625,coffee,91.0,21.0,26.0,57.4,7.3
+1256,Michigan,Montmorency County,8,174.0,91.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1257,Michigan,Muskegon County,9,203.75,106.375,coffee,91.0,21.0,26.0,57.4,7.3
+1258,Michigan,Newaygo County,9,203.25,106.125,coffee,91.0,21.0,26.0,57.4,7.3
+1260,Michigan,Oceana County,9,199.5,104.25,coconut,40.0,22.0,29.0,100.0,5.7
+1261,Michigan,Ogemaw County,8,205.75,106.875,coffee,91.0,21.0,26.0,57.4,7.3
+1262,Michigan,Ontonagon County,6,163.75,84.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1263,Michigan,Osceola County,8,219.75,113.875,coffee,91.0,21.0,26.0,57.4,7.3
+1264,Michigan,Oscoda County,8,187.25,97.625,coconut,40.0,22.0,29.0,100.0,5.7
+1266,Michigan,Ottawa County,10,201.25,105.625,coconut,40.0,22.0,29.0,100.0,5.7
+1268,Michigan,Roscommon County,8,210.25,109.125,coffee,91.0,21.0,26.0,57.4,7.3
+1272,Michigan,Sanilac County,9,203.25,106.125,coffee,91.0,21.0,26.0,57.4,7.3
+1275,Michigan,Tuscola County,10,209.5,109.75,coffee,91.0,21.0,26.0,57.4,7.3
+1280,Minnesota,Aitkin County,6,142.25,74.125,apple,33.0,143.0,204.0,92.0,5.8
+1281,Minnesota,Anoka County,8,144.25,76.125,apple,33.0,143.0,204.0,92.0,5.8
+1282,Minnesota,Becker County,6,101.5,53.75,blackgram,58.0,73.0,16.0,65.7,6.9
+1283,Minnesota,Beltrami County,6,98.5,52.25,blackgram,58.0,73.0,16.0,65.7,6.9
+1284,Minnesota,Benton County,7,153.75,80.375,orange,34.0,10.0,14.0,92.1,6.7
+1285,Minnesota,Big Stone County,8,186.75,97.375,coconut,40.0,22.0,29.0,100.0,5.7
+1286,Minnesota,Blue Earth County,8,152.5,80.25,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1287,Minnesota,Brown County,9,146.0,77.5,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1288,Minnesota,Carlton County,6,152.5,79.25,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1289,Minnesota,Carver County,8,149.75,78.875,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1290,Minnesota,Cass County,6,127.0,66.5,banana,109.0,91.0,53.0,83.5,6.0
+1291,Minnesota,Chippewa County,8,174.5,91.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1293,Minnesota,Clay County,7,110.5,58.75,cotton,113.0,41.0,20.0,80.5,7.3
+1294,Minnesota,Clearwater County,6,93.25,49.625,blackgram,58.0,73.0,16.0,65.7,6.9
+1295,Minnesota,Cook County,4,139.0,71.5,apple,33.0,143.0,204.0,92.0,5.8
+1296,Minnesota,Cottonwood County,9,162.5,85.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1297,Minnesota,Crow Wing County,7,141.0,74.0,apple,33.0,143.0,204.0,92.0,5.8
+1298,Minnesota,Dakota County,9,146.0,77.5,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1300,Minnesota,Douglas County,7,158.75,82.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1301,Minnesota,Faribault County,8,152.5,80.25,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1302,Minnesota,Fillmore County,8,185.5,96.75,coconut,40.0,22.0,29.0,100.0,5.7
+1304,Minnesota,Goodhue County,8,158.75,83.375,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1305,Minnesota,Grant County,8,162.0,85.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1306,Minnesota,Hennepin County,8,145.5,76.75,apple,33.0,143.0,204.0,92.0,5.8
+1307,Minnesota,Houston County,9,200.75,104.875,coconut,40.0,22.0,29.0,100.0,5.7
+1308,Minnesota,Hubbard County,6,107.25,56.625,cotton,113.0,41.0,20.0,80.5,7.3
+1309,Minnesota,Isanti County,8,151.75,79.875,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1310,Minnesota,Itasca County,6,119.5,62.75,cotton,113.0,41.0,20.0,80.5,7.3
+1311,Minnesota,Jackson County,8,174.0,91.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1312,Minnesota,Kanabec County,7,153.0,80.0,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1313,Minnesota,Kandiyohi County,8,150.5,79.25,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1314,Minnesota,Kittson County,6,89.0,47.5,blackgram,58.0,73.0,16.0,65.7,6.9
+1315,Minnesota,Koochiching County,6,115.5,60.75,cotton,113.0,41.0,20.0,80.5,7.3
+1317,Minnesota,Lake County,4,145.5,74.75,apple,33.0,143.0,204.0,92.0,5.8
+1318,Minnesota,Lake of the Woods County,6,120.75,63.375,cotton,113.0,41.0,20.0,80.5,7.3
+1319,Minnesota,Le Sueur County,8,149.75,78.875,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1320,Minnesota,Lincoln County,8,162.0,85.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1321,Minnesota,Lyon County,8,158.0,83.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1322,Minnesota,McLeod County,8,130.75,69.375,apple,33.0,143.0,204.0,92.0,5.8
+1323,Minnesota,Mahnomen County,6,101.5,53.75,blackgram,58.0,73.0,16.0,65.7,6.9
+1324,Minnesota,Marshall County,6,95.25,50.625,blackgram,58.0,73.0,16.0,65.7,6.9
+1325,Minnesota,Martin County,8,165.75,86.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1326,Minnesota,Meeker County,8,120.75,64.375,cotton,113.0,41.0,20.0,80.5,7.3
+1327,Minnesota,Mille Lacs County,7,153.75,80.375,orange,34.0,10.0,14.0,92.1,6.7
+1328,Minnesota,Morrison County,7,153.75,80.375,orange,34.0,10.0,14.0,92.1,6.7
+1329,Minnesota,Mower County,8,190.5,99.25,coconut,40.0,22.0,29.0,100.0,5.7
+1330,Minnesota,Murray County,8,171.5,89.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1331,Minnesota,Nicollet County,9,146.0,77.5,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1333,Minnesota,Norman County,7,109.75,58.375,cotton,113.0,41.0,20.0,80.5,7.3
+1335,Minnesota,Otter Tail County,7,132.75,69.875,apple,33.0,143.0,204.0,92.0,5.8
+1336,Minnesota,Pennington County,6,99.75,52.875,blackgram,58.0,73.0,16.0,65.7,6.9
+1337,Minnesota,Pine County,7,158.75,82.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1338,Minnesota,Pipestone County,8,168.25,88.125,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1339,Minnesota,Polk County,6,102.25,54.125,blackgram,58.0,73.0,16.0,65.7,6.9
+1340,Minnesota,Pope County,8,172.0,90.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1341,Minnesota,Ramsey County,9,146.0,77.5,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1342,Minnesota,Red Lake County,6,102.25,54.125,blackgram,58.0,73.0,16.0,65.7,6.9
+1343,Minnesota,Redwood County,9,144.25,76.625,apple,33.0,143.0,204.0,92.0,5.8
+1344,Minnesota,Renville County,8,132.75,70.375,apple,33.0,143.0,204.0,92.0,5.8
+1346,Minnesota,Rock County,8,173.25,90.625,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1347,Minnesota,Roseau County,6,104.25,55.125,grapes,19.0,123.0,200.0,81.0,6.2
+1348,Minnesota,St. Louis County,5,136.0,70.5,apple,33.0,143.0,204.0,92.0,5.8
+1350,Minnesota,Sherburne County,8,141.5,74.75,apple,33.0,143.0,204.0,92.0,5.8
+1351,Minnesota,Sibley County,9,141.5,75.25,apple,33.0,143.0,204.0,92.0,5.8
+1352,Minnesota,Stearns County,7,158.75,82.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1353,Minnesota,Steele County,8,165.75,86.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1357,Minnesota,Traverse County,8,171.5,89.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1358,Minnesota,Wabasha County,8,187.25,97.625,coconut,40.0,22.0,29.0,100.0,5.7
+1359,Minnesota,Wadena County,7,129.5,68.25,apple,33.0,143.0,204.0,92.0,5.8
+1360,Minnesota,Waseca County,8,151.25,79.625,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1362,Minnesota,Watonwan County,9,162.5,85.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1363,Minnesota,Wilkin County,8,127.75,67.875,apple,33.0,143.0,204.0,92.0,5.8
+1364,Minnesota,Winona County,8,209.0,108.5,coffee,91.0,21.0,26.0,57.4,7.3
+1365,Minnesota,Wright County,8,131.5,69.75,apple,33.0,143.0,204.0,92.0,5.8
+1366,Minnesota,Yellow Medicine County,8,163.25,85.625,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1449,Missouri,Adair County,12,290.25,151.125,rice,97.0,59.0,43.0,84.0,6.3
+1451,Missouri,Atchison County,12,209.5,110.75,coffee,91.0,21.0,26.0,57.4,7.3
+1452,Missouri,Audrain County,12,289.5,150.75,rice,97.0,59.0,43.0,84.0,6.3
+1456,Missouri,Benton County,13,290.75,151.875,rice,97.0,59.0,43.0,84.0,6.3
+1463,Missouri,Camden County,13,283.75,148.375,rice,97.0,59.0,43.0,84.0,6.3
+1464,Missouri,Cape Girardeau County,14,289.0,151.5,rice,97.0,59.0,43.0,84.0,6.3
+1466,Missouri,Carter County,14,274.25,144.125,rice,97.0,59.0,43.0,84.0,6.3
+1467,Missouri,Cass County,13,290.25,151.625,rice,97.0,59.0,43.0,84.0,6.3
+1471,Missouri,Clark County,12,287.0,149.5,rice,97.0,59.0,43.0,84.0,6.3
+1474,Missouri,Cole County,14,289.0,151.5,rice,97.0,59.0,43.0,84.0,6.3
+1475,Missouri,Cooper County,13,291.5,152.25,rice,97.0,59.0,43.0,84.0,6.3
+1476,Missouri,Crawford County,13,279.5,146.25,rice,97.0,59.0,43.0,84.0,6.3
+1481,Missouri,Dent County,13,279.5,146.25,rice,97.0,59.0,43.0,84.0,6.3
+1493,Missouri,Howard County,13,279.5,146.25,rice,97.0,59.0,43.0,84.0,6.3
+1494,Missouri,Howell County,14,277.5,145.75,rice,97.0,59.0,43.0,84.0,6.3
+1505,Missouri,Lincoln County,13,285.75,149.375,rice,97.0,59.0,43.0,84.0,6.3
+1506,Missouri,Linn County,12,279.5,145.75,rice,97.0,59.0,43.0,84.0,6.3
+1509,Missouri,Macon County,12,289.5,150.75,rice,97.0,59.0,43.0,84.0,6.3
+1519,Missouri,Morgan County,13,276.75,144.875,rice,97.0,59.0,43.0,84.0,6.3
+1534,Missouri,Putnam County,11,285.0,148.0,rice,97.0,59.0,43.0,84.0,6.3
+1536,Missouri,Randolph County,12,276.25,144.125,rice,97.0,59.0,43.0,84.0,6.3
+1538,Missouri,Reynolds County,13,284.5,148.75,rice,97.0,59.0,43.0,84.0,6.3
+1539,Missouri,Ripley County,14,293.25,153.625,rice,97.0,59.0,43.0,84.0,6.3
+1546,Missouri,Schuyler County,11,285.75,148.375,rice,97.0,59.0,43.0,84.0,6.3
+1547,Missouri,Scotland County,11,279.5,145.25,rice,97.0,59.0,43.0,84.0,6.3
+1548,Missouri,Scott County,14,292.75,153.375,rice,97.0,59.0,43.0,84.0,6.3
+1549,Missouri,Shannon County,13,276.25,144.625,rice,97.0,59.0,43.0,84.0,6.3
+1553,Missouri,Sullivan County,11,282.0,146.5,rice,97.0,59.0,43.0,84.0,6.3
+1562,Missouri,Wright County,13,291.5,152.25,rice,97.0,59.0,43.0,84.0,6.3
+1564,Montana,Beaverhead County,4,96.0,50.0,blackgram,58.0,73.0,16.0,65.7,6.9
+1565,Montana,Big Horn County,8,68.5,38.25,lentil,6.0,68.0,18.0,62.5,6.7
+1566,Montana,Blaine County,7,61.0,34.0,lentil,6.0,68.0,18.0,62.5,6.7
+1567,Montana,Broadwater County,7,64.75,35.875,lentil,6.0,68.0,18.0,62.5,6.7
+1569,Montana,Carter County,8,68.5,38.25,lentil,6.0,68.0,18.0,62.5,6.7
+1570,Montana,Cascade County,7,72.5,39.75,lentil,6.0,68.0,18.0,62.5,6.7
+1571,Montana,Chouteau County,8,60.25,34.125,lentil,6.0,68.0,18.0,62.5,6.7
+1572,Montana,Custer County,8,62.25,35.125,lentil,6.0,68.0,18.0,62.5,6.7
+1573,Montana,Daniels County,6,59.0,32.5,lentil,6.0,68.0,18.0,62.5,6.7
+1574,Montana,Dawson County,8,55.25,31.625,lentil,6.0,68.0,18.0,62.5,6.7
+1575,Montana,Deer Lodge County,4,95.25,49.625,blackgram,58.0,73.0,16.0,65.7,6.9
+1576,Montana,Fallon County,8,61.0,34.5,lentil,6.0,68.0,18.0,62.5,6.7
+1577,Montana,Fergus County,8,63.5,35.75,lentil,6.0,68.0,18.0,62.5,6.7
+1578,Montana,Flathead County,6,195.0,100.5,coconut,40.0,22.0,29.0,100.0,5.7
+1579,Montana,Gallatin County,5,122.5,63.75,cotton,113.0,41.0,20.0,80.5,7.3
+1580,Montana,Garfield County,8,49.0,28.5,mothbeans,36.0,44.0,21.0,51.3,4.5
+1581,Montana,Glacier County,5,118.0,61.5,cotton,113.0,41.0,20.0,80.5,7.3
+1582,Montana,Golden Valley County,7,59.75,33.375,lentil,6.0,68.0,18.0,62.5,6.7
+1583,Montana,Granite County,4,113.0,58.5,cotton,113.0,41.0,20.0,80.5,7.3
+1584,Montana,Hill County,6,58.5,32.25,lentil,6.0,68.0,18.0,62.5,6.7
+1585,Montana,Jefferson County,6,69.25,37.625,lentil,6.0,68.0,18.0,62.5,6.7
+1587,Montana,Lake County,7,130.25,68.625,apple,33.0,143.0,204.0,92.0,5.8
+1588,Montana,Lewis and Clark County,6,101.5,53.75,blackgram,58.0,73.0,16.0,65.7,6.9
+1589,Montana,Liberty County,6,65.5,35.75,lentil,6.0,68.0,18.0,62.5,6.7
+1590,Montana,Lincoln County,6,185.5,95.75,jute,86.0,40.0,39.0,88.2,6.2
+1591,Montana,McCone County,8,47.5,27.75,mothbeans,36.0,44.0,21.0,51.3,4.5
+1592,Montana,Madison County,5,122.0,63.5,cotton,113.0,41.0,20.0,80.5,7.3
+1593,Montana,Meagher County,5,89.0,47.0,blackgram,58.0,73.0,16.0,65.7,6.9
+1594,Montana,Mineral County,6,197.5,101.75,coconut,40.0,22.0,29.0,100.0,5.7
+1595,Montana,Missoula County,6,149.75,77.875,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1596,Montana,Musselshell County,8,60.25,34.125,lentil,6.0,68.0,18.0,62.5,6.7
+1597,Montana,Park County,4,127.0,65.5,banana,109.0,91.0,53.0,83.5,6.0
+1598,Montana,Petroleum County,9,50.25,29.625,mothbeans,36.0,44.0,21.0,51.3,4.5
+1599,Montana,Phillips County,7,50.75,28.875,mothbeans,36.0,44.0,21.0,51.3,4.5
+1601,Montana,Powder River County,8,66.0,37.0,lentil,6.0,68.0,18.0,62.5,6.7
+1602,Montana,Powell County,5,123.75,64.375,cotton,113.0,41.0,20.0,80.5,7.3
+1603,Montana,Prairie County,8,50.25,29.125,mothbeans,36.0,44.0,21.0,51.3,4.5
+1604,Montana,Ravalli County,5,143.5,74.25,apple,33.0,143.0,204.0,92.0,5.8
+1605,Montana,Richland County,7,50.75,28.875,mothbeans,36.0,44.0,21.0,51.3,4.5
+1606,Montana,Roosevelt County,7,54.5,30.75,mothbeans,36.0,44.0,21.0,51.3,4.5
+1607,Montana,Rosebud County,8,57.25,32.625,lentil,6.0,68.0,18.0,62.5,6.7
+1608,Montana,Sanders County,7,171.5,89.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1609,Montana,Sheridan County,6,59.0,32.5,lentil,6.0,68.0,18.0,62.5,6.7
+1610,Montana,Silver Bow County,5,68.5,36.75,lentil,6.0,68.0,18.0,62.5,6.7
+1612,Montana,Sweet Grass County,7,85.75,46.375,blackgram,58.0,73.0,16.0,65.7,6.9
+1613,Montana,Teton County,6,80.75,43.375,chickpea,38.0,60.0,76.0,17.8,8.9
+1614,Montana,Toole County,6,66.0,36.0,lentil,6.0,68.0,18.0,62.5,6.7
+1615,Montana,Treasure County,9,62.75,35.875,lentil,6.0,68.0,18.0,62.5,6.7
+1616,Montana,Valley County,7,45.0,26.0,muskmelon,95.0,7.0,45.0,90.8,6.0
+1617,Montana,Wheatland County,7,65.5,36.25,lentil,6.0,68.0,18.0,62.5,6.7
+1618,Montana,Wibaux County,8,61.5,34.75,lentil,6.0,68.0,18.0,62.5,6.7
+1619,Montana,Yellowstone County,9,63.5,36.25,lentil,6.0,68.0,18.0,62.5,6.7
+1620,Nebraska,Adams County,11,198.0,104.5,coconut,40.0,22.0,29.0,100.0,5.7
+1621,Nebraska,Antelope County,10,171.5,90.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1622,Nebraska,Arthur County,9,127.0,68.0,apple,33.0,143.0,204.0,92.0,5.8
+1623,Nebraska,Banner County,9,82.5,45.75,blackgram,58.0,73.0,16.0,65.7,6.9
+1624,Nebraska,Blaine County,10,148.5,79.25,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1625,Nebraska,Boone County,10,168.25,89.125,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1626,Nebraska,Box Butte County,9,90.75,49.875,blackgram,58.0,73.0,16.0,65.7,6.9
+1627,Nebraska,Boyd County,10,126.25,68.125,apple,33.0,143.0,204.0,92.0,5.8
+1628,Nebraska,Brown County,10,144.75,77.375,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1633,Nebraska,Cedar County,9,149.25,79.125,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1634,Nebraska,Chase County,11,105.5,58.25,cotton,113.0,41.0,20.0,80.5,7.3
+1635,Nebraska,Cherry County,9,134.5,71.75,apple,33.0,143.0,204.0,92.0,5.8
+1636,Nebraska,Cheyenne County,9,94.0,51.5,blackgram,58.0,73.0,16.0,65.7,6.9
+1637,Nebraska,Clay County,11,184.25,97.625,coconut,40.0,22.0,29.0,100.0,5.7
+1638,Nebraska,Colfax County,11,198.0,104.5,coconut,40.0,22.0,29.0,100.0,5.7
+1639,Nebraska,Cuming County,10,205.0,107.5,coffee,91.0,21.0,26.0,57.4,7.3
+1640,Nebraska,Custer County,10,142.25,76.125,apple,33.0,143.0,204.0,92.0,5.8
+1642,Nebraska,Dawes County,9,86.25,47.625,blackgram,58.0,73.0,16.0,65.7,6.9
+1643,Nebraska,Dawson County,11,153.0,82.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1644,Nebraska,Deuel County,10,109.25,59.625,cotton,113.0,41.0,20.0,80.5,7.3
+1645,Nebraska,Dixon County,9,149.75,79.375,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1648,Nebraska,Dundy County,12,96.5,54.25,grapes,19.0,123.0,200.0,81.0,6.2
+1650,Nebraska,Franklin County,12,188.5,100.25,coconut,40.0,22.0,29.0,100.0,5.7
+1651,Nebraska,Frontier County,11,141.5,76.25,apple,33.0,143.0,204.0,92.0,5.8
+1652,Nebraska,Furnas County,11,158.75,84.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1653,Nebraska,Gage County,12,181.0,96.5,coconut,40.0,22.0,29.0,100.0,5.7
+1654,Nebraska,Garden County,9,104.25,56.625,cotton,113.0,41.0,20.0,80.5,7.3
+1655,Nebraska,Garfield County,9,151.25,80.125,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1656,Nebraska,Gosper County,11,162.0,86.5,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1657,Nebraska,Grant County,9,130.75,69.875,apple,33.0,143.0,204.0,92.0,5.8
+1658,Nebraska,Greeley County,10,170.25,90.125,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1659,Nebraska,Hall County,11,189.25,100.125,coconut,40.0,22.0,29.0,100.0,5.7
+1660,Nebraska,Hamilton County,11,198.75,104.875,coconut,40.0,22.0,29.0,100.0,5.7
+1661,Nebraska,Harlan County,12,179.75,95.875,jute,86.0,40.0,39.0,88.2,6.2
+1662,Nebraska,Hayes County,11,101.5,56.25,cotton,113.0,41.0,20.0,80.5,7.3
+1663,Nebraska,Hitchcock County,11,92.0,51.5,blackgram,58.0,73.0,16.0,65.7,6.9
+1664,Nebraska,Holt County,10,140.25,75.125,apple,33.0,143.0,204.0,92.0,5.8
+1665,Nebraska,Hooker County,9,139.0,74.0,apple,33.0,143.0,204.0,92.0,5.8
+1666,Nebraska,Howard County,11,181.5,96.25,coconut,40.0,22.0,29.0,100.0,5.7
+1667,Nebraska,Jefferson County,12,181.0,96.5,coconut,40.0,22.0,29.0,100.0,5.7
+1668,Nebraska,Johnson County,12,196.75,104.375,coconut,40.0,22.0,29.0,100.0,5.7
+1669,Nebraska,Kearney County,11,192.5,101.75,coconut,40.0,22.0,29.0,100.0,5.7
+1670,Nebraska,Keith County,11,123.75,67.375,apple,33.0,143.0,204.0,92.0,5.8
+1671,Nebraska,Keya Paha County,10,134.0,72.0,apple,33.0,143.0,204.0,92.0,5.8
+1672,Nebraska,Kimball County,9,82.5,45.75,blackgram,58.0,73.0,16.0,65.7,6.9
+1673,Nebraska,Knox County,10,149.25,79.625,kidneybeans,25.0,76.0,24.0,24.9,5.6
+1674,Nebraska,Lancaster County,11,202.0,106.5,coffee,91.0,21.0,26.0,57.4,7.3
+1675,Nebraska,Lincoln County,11,136.5,73.75,apple,33.0,143.0,204.0,92.0,5.8
+1676,Nebraska,Logan County,10,136.0,73.0,apple,33.0,143.0,204.0,92.0,5.8
+1677,Nebraska,Loup County,9,125.75,67.375,apple,33.0,143.0,204.0,92.0,5.8
+1678,Nebraska,McPherson County,9,130.75,69.875,apple,33.0,143.0,204.0,92.0,5.8
+1679,Nebraska,Madison County,10,185.5,97.75,coconut,40.0,22.0,29.0,100.0,5.7
+1680,Nebraska,Merrick County,11,202.0,106.5,coffee,91.0,21.0,26.0,57.4,7.3
+1681,Nebraska,Morrill County,9,85.0,47.0,blackgram,58.0,73.0,16.0,65.7,6.9
+1682,Nebraska,Nance County,11,188.0,99.5,coconut,40.0,22.0,29.0,100.0,5.7
+1683,Nebraska,Nemaha County,12,200.0,106.0,coconut,40.0,22.0,29.0,100.0,5.7
+1684,Nebraska,Nuckolls County,12,188.5,100.25,coconut,40.0,22.0,29.0,100.0,5.7
+1685,Nebraska,Otoe County,11,214.0,112.5,coffee,91.0,21.0,26.0,57.4,7.3
+1686,Nebraska,Pawnee County,12,191.25,101.625,coconut,40.0,22.0,29.0,100.0,5.7
+1687,Nebraska,Perkins County,11,110.5,60.75,cotton,113.0,41.0,20.0,80.5,7.3
+1688,Nebraska,Phelps County,11,182.25,96.625,coconut,40.0,22.0,29.0,100.0,5.7
+1689,Nebraska,Pierce County,10,189.25,99.625,coconut,40.0,22.0,29.0,100.0,5.7
+1690,Nebraska,Platte County,11,191.25,101.125,coconut,40.0,22.0,29.0,100.0,5.7
+1692,Nebraska,Red Willow County,12,114.25,63.125,cotton,113.0,41.0,20.0,80.5,7.3
+1693,Nebraska,Richardson County,12,211.5,111.75,coffee,91.0,21.0,26.0,57.4,7.3
+1694,Nebraska,Rock County,10,133.25,71.625,apple,33.0,143.0,204.0,92.0,5.8
+1695,Nebraska,Saline County,11,196.25,103.625,coconut,40.0,22.0,29.0,100.0,5.7
+1698,Nebraska,Scotts Bluff County,9,72.5,40.75,lentil,6.0,68.0,18.0,62.5,6.7
+1699,Nebraska,Seward County,11,206.5,108.75,coffee,91.0,21.0,26.0,57.4,7.3
+1700,Nebraska,Sheridan County,9,113.75,61.375,cotton,113.0,41.0,20.0,80.5,7.3
+1701,Nebraska,Sherman County,11,152.5,81.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1702,Nebraska,Sioux County,8,80.0,44.0,chickpea,38.0,60.0,76.0,17.8,8.9
+1703,Nebraska,Stanton County,11,190.5,100.75,coconut,40.0,22.0,29.0,100.0,5.7
+1705,Nebraska,Thomas County,10,164.5,87.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1706,Nebraska,Thurston County,10,181.5,95.75,jute,86.0,40.0,39.0,88.2,6.2
+1707,Nebraska,Valley County,10,155.0,82.5,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1710,Nebraska,Webster County,12,203.75,107.875,coffee,91.0,21.0,26.0,57.4,7.3
+1711,Nebraska,Wheeler County,10,158.75,84.375,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+1712,Nebraska,York County,11,203.75,107.375,coffee,91.0,21.0,26.0,57.4,7.3
+1713,Nevada,Churchill County,12,40.75,26.375,muskmelon,95.0,7.0,45.0,90.8,6.0
+1715,Nevada,Douglas County,10,85.75,47.875,blackgram,58.0,73.0,16.0,65.7,6.9
+1718,Nevada,Eureka County,8,71.0,39.5,lentil,6.0,68.0,18.0,62.5,6.7
+1720,Nevada,Lander County,9,65.5,37.25,lentil,6.0,68.0,18.0,62.5,6.7
+1721,Nevada,Lincoln County,13,40.75,26.875,mothbeans,36.0,44.0,21.0,51.3,4.5
+1722,Nevada,Lyon County,11,47.5,29.25,mothbeans,36.0,44.0,21.0,51.3,4.5
+1723,Nevada,Mineral County,11,40.0,25.5,muskmelon,95.0,7.0,45.0,90.8,6.0
+1724,Nevada,Nye County,12,34.25,23.125,muskmelon,95.0,7.0,45.0,90.8,6.0
+1725,Nevada,Pershing County,11,64.75,37.875,lentil,6.0,68.0,18.0,62.5,6.7
+1726,Nevada,Storey County,11,59.75,35.375,lentil,6.0,68.0,18.0,62.5,6.7
+1727,Nevada,Washoe County,10,66.75,38.375,lentil,6.0,68.0,18.0,62.5,6.7
+1728,Nevada,White Pine County,8,68.5,38.25,lentil,6.0,68.0,18.0,62.5,6.7
+1729,Nevada,Carson City,11,68.5,39.75,lentil,6.0,68.0,18.0,62.5,6.7
+1731,New Hampshire,Carroll County,7,291.5,149.25,rice,97.0,59.0,43.0,84.0,6.3
+1761,New Mexico,Bernalillo County,12,48.25,30.125,mothbeans,36.0,44.0,21.0,51.3,4.5
+1762,New Mexico,Catron County,9,90.25,49.625,blackgram,58.0,73.0,16.0,65.7,6.9
+1763,New Mexico,Chaves County,16,89.5,52.75,blackgram,58.0,73.0,16.0,65.7,6.9
+1765,New Mexico,Colfax County,8,105.5,56.75,cotton,113.0,41.0,20.0,80.5,7.3
+1766,New Mexico,Curry County,14,101.0,57.5,cotton,113.0,41.0,20.0,80.5,7.3
+1767,New Mexico,De Baca County,15,82.5,48.75,blackgram,58.0,73.0,16.0,65.7,6.9
+1768,New Mexico,Dona Ana County,17,47.5,32.25,lentil,6.0,68.0,18.0,62.5,6.7
+1769,New Mexico,Eddy County,17,89.0,53.0,blackgram,58.0,73.0,16.0,65.7,6.9
+1770,New Mexico,Grant County,14,95.25,54.625,grapes,19.0,123.0,200.0,81.0,6.2
+1771,New Mexico,Guadalupe County,13,82.5,47.75,blackgram,58.0,73.0,16.0,65.7,6.9
+1772,New Mexico,Harding County,12,80.0,46.0,blackgram,58.0,73.0,16.0,65.7,6.9
+1773,New Mexico,Hidalgo County,16,76.75,46.375,blackgram,58.0,73.0,16.0,65.7,6.9
+1774,New Mexico,Lea County,16,82.5,49.25,blackgram,58.0,73.0,16.0,65.7,6.9
+1775,New Mexico,Lincoln County,13,82.5,47.75,blackgram,58.0,73.0,16.0,65.7,6.9
+1776,New Mexico,Los Alamos County,9,80.0,44.5,blackgram,58.0,73.0,16.0,65.7,6.9
+1777,New Mexico,Luna County,16,59.75,37.875,lentil,6.0,68.0,18.0,62.5,6.7
+1778,New Mexico,McKinley County,10,62.75,36.375,lentil,6.0,68.0,18.0,62.5,6.7
+1779,New Mexico,Mora County,9,118.0,63.5,cotton,113.0,41.0,20.0,80.5,7.3
+1780,New Mexico,Otero County,14,86.25,50.125,blackgram,58.0,73.0,16.0,65.7,6.9
+1781,New Mexico,Quay County,14,89.0,51.5,blackgram,58.0,73.0,16.0,65.7,6.9
+1782,New Mexico,Rio Arriba County,8,87.0,47.5,blackgram,58.0,73.0,16.0,65.7,6.9
+1783,New Mexico,Roosevelt County,14,105.5,59.75,cotton,113.0,41.0,20.0,80.5,7.3
+1784,New Mexico,Sandoval County,11,55.25,33.125,lentil,6.0,68.0,18.0,62.5,6.7
+1785,New Mexico,San Juan County,11,44.5,27.75,mothbeans,36.0,44.0,21.0,51.3,4.5
+1786,New Mexico,San Miguel County,12,89.0,50.5,blackgram,58.0,73.0,16.0,65.7,6.9
+1788,New Mexico,Sierra County,14,62.75,38.375,lentil,6.0,68.0,18.0,62.5,6.7
+1789,New Mexico,Socorro County,13,64.25,38.625,lentil,6.0,68.0,18.0,62.5,6.7
+1790,New Mexico,Taos County,7,113.0,60.0,cotton,113.0,41.0,20.0,80.5,7.3
+1791,New Mexico,Torrance County,11,68.0,39.5,lentil,6.0,68.0,18.0,62.5,6.7
+1792,New Mexico,Union County,11,76.25,43.625,chickpea,38.0,60.0,76.0,17.8,8.9
+1793,New Mexico,Valencia County,13,45.75,29.375,mothbeans,36.0,44.0,21.0,51.3,4.5
+1795,New York,Allegany County,9,285.75,147.375,rice,97.0,59.0,43.0,84.0,6.3
+1798,New York,Cattaraugus County,9,297.75,153.375,rice,97.0,59.0,43.0,84.0,6.3
+1800,New York,Chautauqua County,9,298.5,153.75,rice,97.0,59.0,43.0,84.0,6.3
+1803,New York,Clinton County,7,210.75,108.875,coffee,91.0,21.0,26.0,57.4,7.3
+1809,New York,Essex County,6,283.25,144.625,rice,97.0,59.0,43.0,84.0,6.3
+1816,New York,Jefferson County,8,289.5,148.75,rice,97.0,59.0,43.0,84.0,6.3
+1831,New York,Oswego County,9,298.5,153.75,rice,97.0,59.0,43.0,84.0,6.3
+1840,New York,Schenectady County,9,296.5,152.75,rice,97.0,59.0,43.0,84.0,6.3
+1842,New York,Schuyler County,9,292.0,150.5,rice,97.0,59.0,43.0,84.0,6.3
+1844,New York,Steuben County,9,285.75,147.375,rice,97.0,59.0,43.0,84.0,6.3
+1857,North Carolina,Alexander County,14,291.5,152.75,rice,97.0,59.0,43.0,84.0,6.3
+1859,North Carolina,Anson County,17,271.25,144.125,rice,97.0,59.0,43.0,84.0,6.3
+1868,North Carolina,Cabarrus County,16,286.5,151.25,rice,97.0,59.0,43.0,84.0,6.3
+1872,North Carolina,Caswell County,15,289.5,152.25,rice,97.0,59.0,43.0,84.0,6.3
+1873,North Carolina,Catawba County,15,292.75,153.875,rice,97.0,59.0,43.0,84.0,6.3
+1878,North Carolina,Cleveland County,15,292.75,153.875,rice,97.0,59.0,43.0,84.0,6.3
+1891,North Carolina,Gaston County,16,279.5,147.75,rice,97.0,59.0,43.0,84.0,6.3
+1910,North Carolina,Lincoln County,16,282.5,149.25,rice,97.0,59.0,43.0,84.0,6.3
+1956,North Dakota,Adams County,8,93.25,50.625,blackgram,58.0,73.0,16.0,65.7,6.9
+1957,North Dakota,Barnes County,7,111.0,59.0,cotton,113.0,41.0,20.0,80.5,7.3
+1958,North Dakota,Benson County,6,86.25,46.125,blackgram,58.0,73.0,16.0,65.7,6.9
+1959,North Dakota,Billings County,7,71.0,39.0,lentil,6.0,68.0,18.0,62.5,6.7
+1960,North Dakota,Bottineau County,6,83.75,44.875,blackgram,58.0,73.0,16.0,65.7,6.9
+1961,North Dakota,Bowman County,8,78.75,43.375,chickpea,38.0,60.0,76.0,17.8,8.9
+1962,North Dakota,Burke County,5,89.5,47.25,blackgram,58.0,73.0,16.0,65.7,6.9
+1963,North Dakota,Burleigh County,7,87.0,47.0,blackgram,58.0,73.0,16.0,65.7,6.9
+1965,North Dakota,Cavalier County,5,99.75,52.375,blackgram,58.0,73.0,16.0,65.7,6.9
+1966,North Dakota,Dickey County,7,126.25,66.625,banana,109.0,91.0,53.0,83.5,6.0
+1967,North Dakota,Divide County,6,71.0,38.5,lentil,6.0,68.0,18.0,62.5,6.7
+1969,North Dakota,Eddy County,6,82.0,44.0,chickpea,38.0,60.0,76.0,17.8,8.9
+1970,North Dakota,Emmons County,8,93.25,50.625,blackgram,58.0,73.0,16.0,65.7,6.9
+1971,North Dakota,Foster County,6,84.5,45.25,blackgram,58.0,73.0,16.0,65.7,6.9
+1972,North Dakota,Golden Valley County,7,65.5,36.25,lentil,6.0,68.0,18.0,62.5,6.7
+1973,North Dakota,Grand Forks County,6,101.0,53.5,blackgram,58.0,73.0,16.0,65.7,6.9
+1974,North Dakota,Grant County,7,91.5,49.25,blackgram,58.0,73.0,16.0,65.7,6.9
+1975,North Dakota,Griggs County,6,90.75,48.375,blackgram,58.0,73.0,16.0,65.7,6.9
+1976,North Dakota,Hettinger County,7,88.25,47.625,blackgram,58.0,73.0,16.0,65.7,6.9
+1977,North Dakota,Kidder County,7,96.0,51.5,blackgram,58.0,73.0,16.0,65.7,6.9
+1978,North Dakota,LaMoure County,7,125.75,66.375,banana,109.0,91.0,53.0,83.5,6.0
+1980,North Dakota,McHenry County,7,83.25,45.125,blackgram,58.0,73.0,16.0,65.7,6.9
+1981,North Dakota,McIntosh County,7,93.25,50.125,blackgram,58.0,73.0,16.0,65.7,6.9
+1982,North Dakota,McKenzie County,7,63.5,35.25,lentil,6.0,68.0,18.0,62.5,6.7
+1983,North Dakota,McLean County,7,80.0,43.5,chickpea,38.0,60.0,76.0,17.8,8.9
+1984,North Dakota,Mercer County,7,87.0,47.0,blackgram,58.0,73.0,16.0,65.7,6.9
+1985,North Dakota,Morton County,7,82.5,44.75,blackgram,58.0,73.0,16.0,65.7,6.9
+1986,North Dakota,Mountrail County,6,89.0,47.5,blackgram,58.0,73.0,16.0,65.7,6.9
+1987,North Dakota,Nelson County,6,91.5,48.75,blackgram,58.0,73.0,16.0,65.7,6.9
+1988,North Dakota,Oliver County,7,85.0,46.0,blackgram,58.0,73.0,16.0,65.7,6.9
+1989,North Dakota,Pembina County,6,103.5,54.75,grapes,19.0,123.0,200.0,81.0,6.2
+1990,North Dakota,Pierce County,6,93.25,49.625,blackgram,58.0,73.0,16.0,65.7,6.9
+1991,North Dakota,Ramsey County,6,85.75,45.875,blackgram,58.0,73.0,16.0,65.7,6.9
+1992,North Dakota,Ransom County,7,120.0,63.5,cotton,113.0,41.0,20.0,80.5,7.3
+1993,North Dakota,Renville County,6,82.5,44.25,blackgram,58.0,73.0,16.0,65.7,6.9
+1994,North Dakota,Richland County,8,134.5,71.25,apple,33.0,143.0,204.0,92.0,5.8
+1995,North Dakota,Rolette County,5,85.75,45.375,blackgram,58.0,73.0,16.0,65.7,6.9
+1996,North Dakota,Sargent County,7,128.25,67.625,apple,33.0,143.0,204.0,92.0,5.8
+1997,North Dakota,Sheridan County,7,92.75,49.875,blackgram,58.0,73.0,16.0,65.7,6.9
+1998,North Dakota,Sioux County,8,96.5,52.25,blackgram,58.0,73.0,16.0,65.7,6.9
+2000,North Dakota,Stark County,7,86.25,46.625,blackgram,58.0,73.0,16.0,65.7,6.9
+2001,North Dakota,Steele County,6,96.5,51.25,blackgram,58.0,73.0,16.0,65.7,6.9
+2002,North Dakota,Stutsman County,7,95.25,51.125,blackgram,58.0,73.0,16.0,65.7,6.9
+2003,North Dakota,Towner County,5,86.25,45.625,blackgram,58.0,73.0,16.0,65.7,6.9
+2004,North Dakota,Traill County,7,101.5,54.25,grapes,19.0,123.0,200.0,81.0,6.2
+2005,North Dakota,Walsh County,6,99.0,52.5,blackgram,58.0,73.0,16.0,65.7,6.9
+2007,North Dakota,Wells County,6,94.0,50.0,blackgram,58.0,73.0,16.0,65.7,6.9
+2008,North Dakota,Williams County,6,68.5,37.25,lentil,6.0,68.0,18.0,62.5,6.7
+2017,Ohio,Butler County,12,277.5,144.75,rice,97.0,59.0,43.0,84.0,6.3
+2021,Ohio,Clermont County,12,292.0,152.0,rice,97.0,59.0,43.0,84.0,6.3
+2022,Ohio,Clinton County,12,280.0,146.0,rice,97.0,59.0,43.0,84.0,6.3
+2035,Ohio,Gallia County,12,290.75,151.375,rice,97.0,59.0,43.0,84.0,6.3
+2039,Ohio,Hamilton County,13,284.5,148.75,rice,97.0,59.0,43.0,84.0,6.3
+2048,Ohio,Jackson County,12,280.0,146.0,rice,97.0,59.0,43.0,84.0,6.3
+2061,Ohio,Meigs County,12,285.75,148.875,rice,97.0,59.0,43.0,84.0,6.3
+2070,Ohio,Ottawa County,12,214.0,113.0,coffee,91.0,21.0,26.0,57.4,7.3
+2074,Ohio,Pike County,12,292.75,152.375,rice,97.0,59.0,43.0,84.0,6.3
+2091,Ohio,Warren County,12,279.5,145.75,rice,97.0,59.0,43.0,84.0,6.3
+2098,Oklahoma,Alfalfa County,15,152.5,83.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2100,Oklahoma,Beaver County,14,118.0,66.0,banana,109.0,91.0,53.0,83.5,6.0
+2101,Oklahoma,Beckham County,16,154.25,85.125,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2102,Oklahoma,Blaine County,15,190.5,102.75,coconut,40.0,22.0,29.0,100.0,5.7
+2104,Oklahoma,Caddo County,16,205.75,110.875,coffee,91.0,21.0,26.0,57.4,7.3
+2109,Oklahoma,Cimarron County,12,82.5,47.25,blackgram,58.0,73.0,16.0,65.7,6.9
+2112,Oklahoma,Comanche County,16,205.0,110.5,coffee,91.0,21.0,26.0,57.4,7.3
+2113,Oklahoma,Cotton County,17,201.25,109.125,coffee,91.0,21.0,26.0,57.4,7.3
+2118,Oklahoma,Dewey County,14,164.5,89.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2119,Oklahoma,Ellis County,14,144.25,79.125,kidneybeans,25.0,76.0,24.0,24.9,5.6
+2120,Oklahoma,Garfield County,15,203.75,109.375,coffee,91.0,21.0,26.0,57.4,7.3
+2125,Oklahoma,Harmon County,16,144.25,80.125,kidneybeans,25.0,76.0,24.0,24.9,5.6
+2126,Oklahoma,Harper County,14,125.75,69.875,apple,33.0,143.0,204.0,92.0,5.8
+2129,Oklahoma,Jackson County,17,160.0,88.5,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2130,Oklahoma,Jefferson County,17,205.0,111.0,coffee,91.0,21.0,26.0,57.4,7.3
+2132,Oklahoma,Kay County,15,207.0,111.0,coffee,91.0,21.0,26.0,57.4,7.3
+2134,Oklahoma,Kiowa County,16,163.25,89.625,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2142,Oklahoma,McIntosh County,16,289.0,152.5,rice,97.0,59.0,43.0,84.0,6.3
+2143,Oklahoma,Major County,15,161.25,88.125,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2157,Oklahoma,Pittsburg County,16,289.5,152.75,rice,97.0,59.0,43.0,84.0,6.3
+2161,Oklahoma,Roger Mills County,15,152.5,83.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2162,Oklahoma,Rogers County,16,273.75,144.875,rice,97.0,59.0,43.0,84.0,6.3
+2166,Oklahoma,Texas County,13,106.0,59.5,cotton,113.0,41.0,20.0,80.5,7.3
+2167,Oklahoma,Tillman County,17,188.0,102.5,coconut,40.0,22.0,29.0,100.0,5.7
+2172,Oklahoma,Woods County,14,146.75,80.375,orange,34.0,10.0,14.0,92.1,6.7
+2173,Oklahoma,Woodward County,14,146.75,80.375,orange,34.0,10.0,14.0,92.1,6.7
+2174,Oregon,Baker County,8,108.0,58.0,cotton,113.0,41.0,20.0,80.5,7.3
+2180,Oregon,Crook County,8,66.0,37.0,lentil,6.0,68.0,18.0,62.5,6.7
+2182,Oregon,Deschutes County,7,112.5,59.75,cotton,113.0,41.0,20.0,80.5,7.3
+2183,Oregon,Douglas County,11,287.0,149.0,rice,97.0,59.0,43.0,84.0,6.3
+2184,Oregon,Gilliam County,11,54.5,32.75,lentil,6.0,68.0,18.0,62.5,6.7
+2185,Oregon,Grant County,7,99.75,53.375,blackgram,58.0,73.0,16.0,65.7,6.9
+2186,Oregon,Harney County,8,64.25,36.125,lentil,6.0,68.0,18.0,62.5,6.7
+2188,Oregon,Jackson County,11,188.5,99.75,coconut,40.0,22.0,29.0,100.0,5.7
+2189,Oregon,Jefferson County,9,93.25,51.125,blackgram,58.0,73.0,16.0,65.7,6.9
+2191,Oregon,Klamath County,8,126.25,67.125,apple,33.0,143.0,204.0,92.0,5.8
+2192,Oregon,Lake County,8,64.75,36.375,lentil,6.0,68.0,18.0,62.5,6.7
+2196,Oregon,Malheur County,9,71.0,40.0,lentil,6.0,68.0,18.0,62.5,6.7
+2198,Oregon,Morrow County,11,68.0,39.5,lentil,6.0,68.0,18.0,62.5,6.7
+2201,Oregon,Sherman County,11,63.5,37.25,lentil,6.0,68.0,18.0,62.5,6.7
+2203,Oregon,Umatilla County,10,105.5,57.75,cotton,113.0,41.0,20.0,80.5,7.3
+2204,Oregon,Union County,8,150.5,79.25,kidneybeans,25.0,76.0,24.0,24.9,5.6
+2205,Oregon,Wallowa County,7,130.75,68.875,apple,33.0,143.0,204.0,92.0,5.8
+2206,Oregon,Wasco County,10,103.5,56.75,cotton,113.0,41.0,20.0,80.5,7.3
+2211,Pennsylvania,Allegheny County,12,282.0,147.0,rice,97.0,59.0,43.0,84.0,6.3
+2216,Pennsylvania,Blair County,11,296.0,153.5,rice,97.0,59.0,43.0,84.0,6.3
+2219,Pennsylvania,Butler County,11,289.0,150.0,rice,97.0,59.0,43.0,84.0,6.3
+2225,Pennsylvania,Clarion County,10,294.75,152.375,rice,97.0,59.0,43.0,84.0,6.3
+2226,Pennsylvania,Clearfield County,9,292.0,150.5,rice,97.0,59.0,43.0,84.0,6.3
+2229,Pennsylvania,Crawford County,10,279.5,144.75,rice,97.0,59.0,43.0,84.0,6.3
+2233,Pennsylvania,Elk County,9,297.25,153.125,rice,97.0,59.0,43.0,84.0,6.3
+2234,Pennsylvania,Erie County,10,286.5,148.25,rice,97.0,59.0,43.0,84.0,6.3
+2237,Pennsylvania,Franklin County,12,278.25,145.125,rice,97.0,59.0,43.0,84.0,6.3
+2239,Pennsylvania,Greene County,11,289.0,150.0,rice,97.0,59.0,43.0,84.0,6.3
+2240,Pennsylvania,Huntingdon County,11,292.75,151.875,rice,97.0,59.0,43.0,84.0,6.3
+2252,Pennsylvania,Mercer County,10,280.0,145.0,rice,97.0,59.0,43.0,84.0,6.3
+2265,Pennsylvania,Somerset County,9,297.75,153.375,rice,97.0,59.0,43.0,84.0,6.3
+2270,Pennsylvania,Venango County,10,296.5,153.25,rice,97.0,59.0,43.0,84.0,6.3
+2272,Pennsylvania,Washington County,11,282.0,146.5,rice,97.0,59.0,43.0,84.0,6.3
+2292,South Carolina,Cherokee County,16,288.25,152.125,rice,97.0,59.0,43.0,84.0,6.3
+2294,South Carolina,Chesterfield County,17,279.5,148.25,rice,97.0,59.0,43.0,84.0,6.3
+2301,South Carolina,Fairfield County,17,282.0,149.5,rice,97.0,59.0,43.0,84.0,6.3
+2309,South Carolina,Kershaw County,17,285.75,151.375,rice,97.0,59.0,43.0,84.0,6.3
+2311,South Carolina,Laurens County,17,282.0,149.5,rice,97.0,59.0,43.0,84.0,6.3
+2325,South Carolina,Union County,16,278.25,147.125,rice,97.0,59.0,43.0,84.0,6.3
+2328,South Dakota,Aurora County,9,114.25,61.625,cotton,113.0,41.0,20.0,80.5,7.3
+2329,South Dakota,Beadle County,9,131.5,70.25,apple,33.0,143.0,204.0,92.0,5.8
+2330,South Dakota,Bennett County,9,116.75,62.875,cotton,113.0,41.0,20.0,80.5,7.3
+2331,South Dakota,Bon Homme County,10,132.75,71.375,apple,33.0,143.0,204.0,92.0,5.8
+2333,South Dakota,Brown County,8,129.0,68.5,apple,33.0,143.0,204.0,92.0,5.8
+2334,South Dakota,Brule County,10,115.0,62.5,cotton,113.0,41.0,20.0,80.5,7.3
+2335,South Dakota,Buffalo County,9,120.75,64.875,cotton,113.0,41.0,20.0,80.5,7.3
+2337,South Dakota,Campbell County,8,91.5,49.75,blackgram,58.0,73.0,16.0,65.7,6.9
+2338,South Dakota,Charles Mix County,10,123.25,66.625,banana,109.0,91.0,53.0,83.5,6.0
+2339,South Dakota,Clark County,8,157.5,82.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2340,South Dakota,Clay County,9,140.25,74.625,apple,33.0,143.0,204.0,92.0,5.8
+2342,South Dakota,Corson County,8,99.75,53.875,blackgram,58.0,73.0,16.0,65.7,6.9
+2343,South Dakota,Custer County,8,107.25,57.625,cotton,113.0,41.0,20.0,80.5,7.3
+2344,South Dakota,Davison County,9,120.75,64.875,cotton,113.0,41.0,20.0,80.5,7.3
+2345,South Dakota,Day County,7,157.5,82.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2347,South Dakota,Dewey County,9,96.0,52.5,blackgram,58.0,73.0,16.0,65.7,6.9
+2348,South Dakota,Douglas County,9,122.0,65.5,banana,109.0,91.0,53.0,83.5,6.0
+2349,South Dakota,Edmunds County,8,111.0,59.5,cotton,113.0,41.0,20.0,80.5,7.3
+2350,South Dakota,Fall River County,9,99.0,54.0,blackgram,58.0,73.0,16.0,65.7,6.9
+2351,South Dakota,Faulk County,8,119.5,63.75,cotton,113.0,41.0,20.0,80.5,7.3
+2352,South Dakota,Grant County,8,191.75,99.875,coconut,40.0,22.0,29.0,100.0,5.7
+2353,South Dakota,Gregory County,10,120.75,65.375,banana,109.0,91.0,53.0,83.5,6.0
+2354,South Dakota,Haakon County,9,83.75,46.375,blackgram,58.0,73.0,16.0,65.7,6.9
+2355,South Dakota,Hamlin County,8,169.0,88.5,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2356,South Dakota,Hand County,9,128.25,68.625,apple,33.0,143.0,204.0,92.0,5.8
+2357,South Dakota,Hanson County,9,122.5,65.75,banana,109.0,91.0,53.0,83.5,6.0
+2359,South Dakota,Hughes County,9,98.5,53.75,blackgram,58.0,73.0,16.0,65.7,6.9
+2360,South Dakota,Hutchinson County,9,134.0,71.5,apple,33.0,143.0,204.0,92.0,5.8
+2361,South Dakota,Hyde County,9,109.25,59.125,cotton,113.0,41.0,20.0,80.5,7.3
+2362,South Dakota,Jackson County,10,96.5,53.25,blackgram,58.0,73.0,16.0,65.7,6.9
+2363,South Dakota,Jerauld County,9,122.5,65.75,banana,109.0,91.0,53.0,83.5,6.0
+2364,South Dakota,Jones County,10,107.25,58.625,cotton,113.0,41.0,20.0,80.5,7.3
+2365,South Dakota,Kingsbury County,8,146.75,77.375,kidneybeans,25.0,76.0,24.0,24.9,5.6
+2366,South Dakota,Lake County,8,133.25,70.625,apple,33.0,143.0,204.0,92.0,5.8
+2367,South Dakota,Lawrence County,7,127.0,67.0,apple,33.0,143.0,204.0,92.0,5.8
+2368,South Dakota,Lincoln County,9,170.75,89.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2369,South Dakota,Lyman County,10,121.25,65.625,banana,109.0,91.0,53.0,83.5,6.0
+2370,South Dakota,McCook County,9,131.5,70.25,apple,33.0,143.0,204.0,92.0,5.8
+2371,South Dakota,McPherson County,7,101.5,54.25,grapes,19.0,123.0,200.0,81.0,6.2
+2372,South Dakota,Marshall County,7,146.0,76.5,apple,33.0,143.0,204.0,92.0,5.8
+2373,South Dakota,Meade County,9,84.5,46.75,blackgram,58.0,73.0,16.0,65.7,6.9
+2374,South Dakota,Mellette County,10,113.0,61.5,cotton,113.0,41.0,20.0,80.5,7.3
+2375,South Dakota,Miner County,8,124.5,66.25,banana,109.0,91.0,53.0,83.5,6.0
+2377,South Dakota,Moody County,8,146.75,77.375,kidneybeans,25.0,76.0,24.0,24.9,5.6
+2378,South Dakota,Oglala Lakota County,10,97.75,53.875,blackgram,58.0,73.0,16.0,65.7,6.9
+2379,South Dakota,Pennington County,9,96.5,52.75,blackgram,58.0,73.0,16.0,65.7,6.9
+2380,South Dakota,Perkins County,8,88.25,48.125,blackgram,58.0,73.0,16.0,65.7,6.9
+2381,South Dakota,Potter County,8,95.25,51.625,blackgram,58.0,73.0,16.0,65.7,6.9
+2382,South Dakota,Roberts County,8,172.75,90.375,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2383,South Dakota,Sanborn County,9,117.5,63.25,cotton,113.0,41.0,20.0,80.5,7.3
+2384,South Dakota,Spink County,9,132.75,70.875,apple,33.0,143.0,204.0,92.0,5.8
+2385,South Dakota,Stanley County,9,90.25,49.625,blackgram,58.0,73.0,16.0,65.7,6.9
+2386,South Dakota,Sully County,9,92.75,50.875,blackgram,58.0,73.0,16.0,65.7,6.9
+2387,South Dakota,Todd County,10,123.75,66.875,apple,33.0,143.0,204.0,92.0,5.8
+2388,South Dakota,Tripp County,10,119.5,64.75,cotton,113.0,41.0,20.0,80.5,7.3
+2389,South Dakota,Turner County,9,150.5,79.75,kidneybeans,25.0,76.0,24.0,24.9,5.6
+2390,South Dakota,Union County,9,143.0,76.0,apple,33.0,143.0,204.0,92.0,5.8
+2391,South Dakota,Walworth County,8,106.0,57.0,cotton,113.0,41.0,20.0,80.5,7.3
+2392,South Dakota,Yankton County,10,137.75,73.875,apple,33.0,143.0,204.0,92.0,5.8
+2393,South Dakota,Ziebach County,9,89.0,49.0,blackgram,58.0,73.0,16.0,65.7,6.9
+2490,Texas,Andrews County,17,84.5,50.75,blackgram,58.0,73.0,16.0,65.7,6.9
+2494,Texas,Armstrong County,15,126.25,70.625,apple,33.0,143.0,204.0,92.0,5.8
+2495,Texas,Atascosa County,21,188.5,104.75,coconut,40.0,22.0,29.0,100.0,5.7
+2497,Texas,Bailey County,14,113.0,63.5,cotton,113.0,41.0,20.0,80.5,7.3
+2498,Texas,Bandera County,19,198.75,108.875,coffee,91.0,21.0,26.0,57.4,7.3
+2499,Texas,Bastrop County,20,275.5,147.75,rice,97.0,59.0,43.0,84.0,6.3
+2500,Texas,Baylor County,17,166.25,91.625,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2501,Texas,Bee County,22,268.0,145.0,rice,97.0,59.0,43.0,84.0,6.3
+2502,Texas,Bell County,19,197.5,108.25,coffee,91.0,21.0,26.0,57.4,7.3
+2505,Texas,Borden County,17,139.75,78.375,kidneybeans,25.0,76.0,24.0,24.9,5.6
+2509,Texas,Brazos County,19,270.5,144.75,rice,97.0,59.0,43.0,84.0,6.3
+2510,Texas,Brewster County,19,72.5,45.75,blackgram,58.0,73.0,16.0,65.7,6.9
+2511,Texas,Briscoe County,16,127.75,71.875,apple,33.0,143.0,204.0,92.0,5.8
+2512,Texas,Brooks County,23,158.75,90.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2513,Texas,Brown County,18,165.0,91.5,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2514,Texas,Burleson County,19,280.0,149.5,rice,97.0,59.0,43.0,84.0,6.3
+2515,Texas,Burnet County,19,207.75,113.375,coffee,91.0,21.0,26.0,57.4,7.3
+2518,Texas,Callahan County,17,190.5,103.75,coconut,40.0,22.0,29.0,100.0,5.7
+2520,Texas,Camp County,18,289.5,153.75,rice,97.0,59.0,43.0,84.0,6.3
+2521,Texas,Carson County,14,122.0,68.0,apple,33.0,143.0,204.0,92.0,5.8
+2523,Texas,Castro County,14,111.75,62.875,cotton,113.0,41.0,20.0,80.5,7.3
+2526,Texas,Childress County,17,132.75,74.875,apple,33.0,143.0,204.0,92.0,5.8
+2527,Texas,Clay County,17,188.0,102.5,coconut,40.0,22.0,29.0,100.0,5.7
+2528,Texas,Cochran County,15,106.0,60.5,cotton,113.0,41.0,20.0,80.5,7.3
+2529,Texas,Coke County,18,129.5,73.75,apple,33.0,143.0,204.0,92.0,5.8
+2530,Texas,Coleman County,18,165.0,91.5,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2532,Texas,Collingsworth County,16,149.75,82.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2535,Texas,Comanche County,18,198.75,108.375,coffee,91.0,21.0,26.0,57.4,7.3
+2536,Texas,Concho County,18,159.5,88.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2538,Texas,Coryell County,18,198.0,108.0,coffee,91.0,21.0,26.0,57.4,7.3
+2539,Texas,Cottle County,17,136.0,76.5,apple,33.0,143.0,204.0,92.0,5.8
+2540,Texas,Crane County,19,69.75,44.375,blackgram,58.0,73.0,16.0,65.7,6.9
+2542,Texas,Crosby County,16,125.75,70.875,apple,33.0,143.0,204.0,92.0,5.8
+2543,Texas,Culberson County,17,82.5,49.75,blackgram,58.0,73.0,16.0,65.7,6.9
+2544,Texas,Dallam County,13,80.0,46.5,blackgram,58.0,73.0,16.0,65.7,6.9
+2546,Texas,Dawson County,16,114.25,65.125,banana,109.0,91.0,53.0,83.5,6.0
+2547,Texas,Deaf Smith County,14,95.25,54.625,grapes,19.0,123.0,200.0,81.0,6.2
+2551,Texas,Dickens County,17,136.0,76.5,apple,33.0,143.0,204.0,92.0,5.8
+2552,Texas,Dimmit County,22,135.25,78.625,kidneybeans,25.0,76.0,24.0,24.9,5.6
+2553,Texas,Donley County,16,148.0,82.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2556,Texas,Ector County,18,75.0,46.5,blackgram,58.0,73.0,16.0,65.7,6.9
+2557,Texas,Edwards County,18,153.0,85.5,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2559,Texas,El Paso County,18,58.5,38.25,lentil,6.0,68.0,18.0,62.5,6.7
+2564,Texas,Fisher County,17,158.75,87.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2565,Texas,Floyd County,15,129.5,72.25,apple,33.0,143.0,204.0,92.0,5.8
+2566,Texas,Foard County,17,155.0,86.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2568,Texas,Franklin County,18,288.25,153.125,rice,97.0,59.0,43.0,84.0,6.3
+2570,Texas,Frio County,21,157.5,89.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2571,Texas,Gaines County,16,96.0,56.0,cotton,113.0,41.0,20.0,80.5,7.3
+2573,Texas,Garza County,17,133.25,75.125,apple,33.0,143.0,204.0,92.0,5.8
+2574,Texas,Gillespie County,18,193.75,105.875,coconut,40.0,22.0,29.0,100.0,5.7
+2575,Texas,Glasscock County,17,114.25,65.625,banana,109.0,91.0,53.0,83.5,6.0
+2577,Texas,Gonzales County,21,268.5,144.75,rice,97.0,59.0,43.0,84.0,6.3
+2578,Texas,Gray County,14,150.5,82.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2579,Texas,Grayson County,17,275.0,146.0,rice,97.0,59.0,43.0,84.0,6.3
+2583,Texas,Hale County,15,125.75,70.375,apple,33.0,143.0,204.0,92.0,5.8
+2584,Texas,Hall County,17,136.0,76.5,apple,33.0,143.0,204.0,92.0,5.8
+2585,Texas,Hamilton County,18,183.0,100.5,coconut,40.0,22.0,29.0,100.0,5.7
+2586,Texas,Hansford County,14,108.0,61.0,cotton,113.0,41.0,20.0,80.5,7.3
+2587,Texas,Hardeman County,17,155.5,86.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2591,Texas,Hartley County,13,80.75,46.875,blackgram,58.0,73.0,16.0,65.7,6.9
+2594,Texas,Hemphill County,14,139.75,76.875,kidneybeans,25.0,76.0,24.0,24.9,5.6
+2595,Texas,Henderson County,18,289.0,153.5,rice,97.0,59.0,43.0,84.0,6.3
+2596,Texas,Hidalgo County,24,196.75,110.375,coffee,91.0,21.0,26.0,57.4,7.3
+2598,Texas,Hockley County,15,111.0,63.0,cotton,113.0,41.0,20.0,80.5,7.3
+2600,Texas,Hopkins County,17,279.5,148.25,rice,97.0,59.0,43.0,84.0,6.3
+2602,Texas,Howard County,17,127.75,72.375,apple,33.0,143.0,204.0,92.0,5.8
+2603,Texas,Hudspeth County,17,73.75,45.375,blackgram,58.0,73.0,16.0,65.7,6.9
+2605,Texas,Hutchinson County,15,108.5,61.75,cotton,113.0,41.0,20.0,80.5,7.3
+2606,Texas,Irion County,18,139.0,78.5,kidneybeans,25.0,76.0,24.0,24.9,5.6
+2612,Texas,Jim Hogg County,23,143.5,83.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2613,Texas,Jim Wells County,23,200.0,111.5,coffee,91.0,21.0,26.0,57.4,7.3
+2614,Texas,Johnson County,18,209.0,113.5,coffee,91.0,21.0,26.0,57.4,7.3
+2615,Texas,Jones County,17,158.0,87.5,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2617,Texas,Kaufman County,18,272.5,145.25,rice,97.0,59.0,43.0,84.0,6.3
+2619,Texas,Kenedy County,23,185.5,104.25,coconut,40.0,22.0,29.0,100.0,5.7
+2620,Texas,Kent County,17,140.25,78.625,kidneybeans,25.0,76.0,24.0,24.9,5.6
+2621,Texas,Kerr County,18,196.75,107.375,coffee,91.0,21.0,26.0,57.4,7.3
+2622,Texas,Kimble County,18,162.0,90.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2623,Texas,King County,17,136.0,76.5,apple,33.0,143.0,204.0,92.0,5.8
+2624,Texas,Kinney County,21,122.0,71.5,apple,33.0,143.0,204.0,92.0,5.8
+2625,Texas,Kleberg County,23,174.5,98.75,coconut,40.0,22.0,29.0,100.0,5.7
+2626,Texas,Knox County,17,156.25,86.625,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2627,Texas,Lamar County,17,288.25,152.625,rice,97.0,59.0,43.0,84.0,6.3
+2628,Texas,Lamb County,14,117.5,65.75,banana,109.0,91.0,53.0,83.5,6.0
+2629,Texas,Lampasas County,18,200.75,109.375,coffee,91.0,21.0,26.0,57.4,7.3
+2630,Texas,La Salle County,22,149.75,85.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2633,Texas,Leon County,18,278.25,148.125,rice,97.0,59.0,43.0,84.0,6.3
+2636,Texas,Lipscomb County,14,135.25,74.625,apple,33.0,143.0,204.0,92.0,5.8
+2638,Texas,Llano County,19,182.25,100.625,coconut,40.0,22.0,29.0,100.0,5.7
+2639,Texas,Loving County,18,62.25,40.125,lentil,6.0,68.0,18.0,62.5,6.7
+2640,Texas,Lubbock County,16,120.75,68.375,apple,33.0,143.0,204.0,92.0,5.8
+2641,Texas,Lynn County,16,116.75,66.375,banana,109.0,91.0,53.0,83.5,6.0
+2642,Texas,McCulloch County,18,177.75,97.875,coconut,40.0,22.0,29.0,100.0,5.7
+2644,Texas,McMullen County,22,186.0,104.0,coconut,40.0,22.0,29.0,100.0,5.7
+2647,Texas,Martin County,17,104.75,60.875,cotton,113.0,41.0,20.0,80.5,7.3
+2648,Texas,Mason County,18,159.5,88.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2650,Texas,Maverick County,22,120.75,71.375,apple,33.0,143.0,204.0,92.0,5.8
+2652,Texas,Menard County,18,162.5,90.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2653,Texas,Midland County,18,90.25,54.125,blackgram,58.0,73.0,16.0,65.7,6.9
+2657,Texas,Montague County,17,192.5,104.75,coconut,40.0,22.0,29.0,100.0,5.7
+2659,Texas,Moore County,14,94.5,54.25,grapes,19.0,123.0,200.0,81.0,6.2
+2661,Texas,Motley County,16,133.25,74.625,apple,33.0,143.0,204.0,92.0,5.8
+2667,Texas,Ochiltree County,14,121.25,67.625,apple,33.0,143.0,204.0,92.0,5.8
+2668,Texas,Oldham County,14,80.75,47.375,blackgram,58.0,73.0,16.0,65.7,6.9
+2673,Texas,Parmer County,14,106.0,60.0,cotton,113.0,41.0,20.0,80.5,7.3
+2674,Texas,Pecos County,18,73.0,45.5,blackgram,58.0,73.0,16.0,65.7,6.9
+2676,Texas,Potter County,14,103.5,58.75,cotton,113.0,41.0,20.0,80.5,7.3
+2677,Texas,Presidio County,18,81.25,49.625,blackgram,58.0,73.0,16.0,65.7,6.9
+2678,Texas,Rains County,18,272.5,145.25,rice,97.0,59.0,43.0,84.0,6.3
+2679,Texas,Randall County,14,120.75,67.375,apple,33.0,143.0,204.0,92.0,5.8
+2680,Texas,Reagan County,18,108.0,63.0,cotton,113.0,41.0,20.0,80.5,7.3
+2683,Texas,Reeves County,18,75.0,46.5,blackgram,58.0,73.0,16.0,65.7,6.9
+2685,Texas,Roberts County,15,134.0,74.5,apple,33.0,143.0,204.0,92.0,5.8
+2686,Texas,Robertson County,19,278.75,148.875,rice,97.0,59.0,43.0,84.0,6.3
+2688,Texas,Runnels County,18,157.5,87.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2694,Texas,San Saba County,18,177.75,97.875,coconut,40.0,22.0,29.0,100.0,5.7
+2695,Texas,Schleicher County,18,154.25,86.125,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2696,Texas,Scurry County,17,162.0,89.5,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2697,Texas,Shackelford County,17,184.75,100.875,coconut,40.0,22.0,29.0,100.0,5.7
+2699,Texas,Sherman County,14,89.0,51.5,blackgram,58.0,73.0,16.0,65.7,6.9
+2704,Texas,Sterling County,17,123.25,70.125,apple,33.0,143.0,204.0,92.0,5.8
+2705,Texas,Stonewall County,17,140.25,78.625,kidneybeans,25.0,76.0,24.0,24.9,5.6
+2706,Texas,Sutton County,18,146.75,82.375,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2707,Texas,Swisher County,14,118.0,66.0,banana,109.0,91.0,53.0,83.5,6.0
+2708,Texas,Tarrant County,18,209.5,113.75,coffee,91.0,21.0,26.0,57.4,7.3
+2711,Texas,Terry County,16,102.75,59.375,cotton,113.0,41.0,20.0,80.5,7.3
+2712,Texas,Throckmorton County,17,179.0,98.0,coconut,40.0,22.0,29.0,100.0,5.7
+2714,Texas,Tom Green County,18,150.5,84.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2719,Texas,Upton County,18,76.25,47.125,blackgram,58.0,73.0,16.0,65.7,6.9
+2720,Texas,Uvalde County,21,150.5,85.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2721,Texas,Val Verde County,20,84.5,52.25,blackgram,58.0,73.0,16.0,65.7,6.9
+2722,Texas,Van Zandt County,18,284.5,151.25,rice,97.0,59.0,43.0,84.0,6.3
+2726,Texas,Ward County,19,62.25,40.625,lentil,6.0,68.0,18.0,62.5,6.7
+2728,Texas,Webb County,22,125.0,73.5,apple,33.0,143.0,204.0,92.0,5.8
+2730,Texas,Wheeler County,15,152.5,83.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2731,Texas,Wichita County,17,183.0,100.0,coconut,40.0,22.0,29.0,100.0,5.7
+2732,Texas,Wilbarger County,17,174.5,95.75,jute,86.0,40.0,39.0,88.2,6.2
+2736,Texas,Winkler County,18,63.5,40.75,lentil,6.0,68.0,18.0,62.5,6.7
+2737,Texas,Wise County,18,209.5,113.75,coffee,91.0,21.0,26.0,57.4,7.3
+2738,Texas,Wood County,18,282.5,150.25,rice,97.0,59.0,43.0,84.0,6.3
+2740,Texas,Young County,17,199.5,108.25,coffee,91.0,21.0,26.0,57.4,7.3
+2741,Texas,Zapata County,23,101.5,62.25,cotton,113.0,41.0,20.0,80.5,7.3
+2744,Utah,Box Elder County,9,62.75,35.875,lentil,6.0,68.0,18.0,62.5,6.7
+2745,Utah,Cache County,7,144.75,75.875,apple,33.0,143.0,204.0,92.0,5.8
+2746,Utah,Carbon County,8,98.5,53.25,blackgram,58.0,73.0,16.0,65.7,6.9
+2747,Utah,Daggett County,6,95.25,50.625,blackgram,58.0,73.0,16.0,65.7,6.9
+2748,Utah,Davis County,10,137.75,73.875,apple,33.0,143.0,204.0,92.0,5.8
+2749,Utah,Duchesne County,6,111.75,58.875,cotton,113.0,41.0,20.0,80.5,7.3
+2750,Utah,Emery County,11,58.5,34.75,lentil,6.0,68.0,18.0,62.5,6.7
+2753,Utah,Iron County,10,85.0,47.5,blackgram,58.0,73.0,16.0,65.7,6.9
+2754,Utah,Juab County,11,66.75,38.875,lentil,6.0,68.0,18.0,62.5,6.7
+2755,Utah,Kane County,12,65.5,38.75,lentil,6.0,68.0,18.0,62.5,6.7
+2756,Utah,Millard County,11,61.0,36.0,lentil,6.0,68.0,18.0,62.5,6.7
+2757,Utah,Morgan County,7,141.5,74.25,apple,33.0,143.0,204.0,92.0,5.8
+2758,Utah,Piute County,7,100.25,53.625,blackgram,58.0,73.0,16.0,65.7,6.9
+2759,Utah,Rich County,6,90.25,48.125,blackgram,58.0,73.0,16.0,65.7,6.9
+2760,Utah,Salt Lake County,10,126.25,68.125,apple,33.0,143.0,204.0,92.0,5.8
+2761,Utah,San Juan County,12,58.5,35.25,lentil,6.0,68.0,18.0,62.5,6.7
+2762,Utah,Sanpete County,7,106.0,56.5,cotton,113.0,41.0,20.0,80.5,7.3
+2763,Utah,Sevier County,8,99.0,53.5,blackgram,58.0,73.0,16.0,65.7,6.9
+2764,Utah,Summit County,4,160.75,82.375,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2765,Utah,Tooele County,11,55.25,33.125,lentil,6.0,68.0,18.0,62.5,6.7
+2767,Utah,Utah County,9,108.0,58.5,cotton,113.0,41.0,20.0,80.5,7.3
+2768,Utah,Wasatch County,6,149.75,77.875,kidneybeans,25.0,76.0,24.0,24.9,5.6
+2769,Utah,Washington County,14,83.75,48.875,blackgram,58.0,73.0,16.0,65.7,6.9
+2770,Utah,Wayne County,11,62.75,36.875,lentil,6.0,68.0,18.0,62.5,6.7
+2771,Utah,Weber County,8,132.75,70.375,apple,33.0,143.0,204.0,92.0,5.8
+2775,Vermont,Chittenden County,8,210.75,109.375,coffee,91.0,21.0,26.0,57.4,7.3
+2777,Vermont,Franklin County,8,217.75,112.875,coffee,91.0,21.0,26.0,57.4,7.3
+2778,Vermont,Grand Isle County,9,208.25,108.625,coffee,91.0,21.0,26.0,57.4,7.3
+2785,Vermont,Windsor County,7,288.25,147.625,rice,97.0,59.0,43.0,84.0,6.3
+2788,Virginia,Alleghany County,12,289.5,150.75,rice,97.0,59.0,43.0,84.0,6.3
+2793,Virginia,Augusta County,12,291.5,151.75,rice,97.0,59.0,43.0,84.0,6.3
+2794,Virginia,Bath County,11,291.5,151.25,rice,97.0,59.0,43.0,84.0,6.3
+2796,Virginia,Bland County,11,280.0,145.5,rice,97.0,59.0,43.0,84.0,6.3
+2809,Virginia,Culpeper County,14,292.0,153.0,rice,97.0,59.0,43.0,84.0,6.3
+2838,Virginia,Loudoun County,13,275.5,144.25,rice,97.0,59.0,43.0,84.0,6.3
+2845,Virginia,Montgomery County,12,290.25,151.125,rice,97.0,59.0,43.0,84.0,6.3
+2852,Virginia,Page County,12,279.5,145.75,rice,97.0,59.0,43.0,84.0,6.3
+2854,Virginia,Pittsylvania County,14,293.25,153.625,rice,97.0,59.0,43.0,84.0,6.3
+2858,Virginia,Prince William County,14,274.25,144.125,rice,97.0,59.0,43.0,84.0,6.3
+2859,Virginia,Pulaski County,12,284.5,148.25,rice,97.0,59.0,43.0,84.0,6.3
+2860,Virginia,Rappahannock County,13,285.0,149.0,rice,97.0,59.0,43.0,84.0,6.3
+2864,Virginia,Rockingham County,12,279.5,145.75,rice,97.0,59.0,43.0,84.0,6.3
+2865,Virginia,Russell County,12,285.75,148.875,rice,97.0,59.0,43.0,84.0,6.3
+2868,Virginia,Smyth County,11,295.25,153.125,rice,97.0,59.0,43.0,84.0,6.3
+2871,Virginia,Stafford County,15,275.0,145.0,rice,97.0,59.0,43.0,84.0,6.3
+2874,Virginia,Tazewell County,11,289.0,150.0,rice,97.0,59.0,43.0,84.0,6.3
+2876,Virginia,Washington County,13,292.0,152.5,rice,97.0,59.0,43.0,84.0,6.3
+2887,Virginia,Covington City,13,283.25,148.125,rice,97.0,59.0,43.0,84.0,6.3
+2888,Virginia,Danville City,15,276.75,145.875,rice,97.0,59.0,43.0,84.0,6.3
+2893,Virginia,Fredericksburg City,14,290.75,152.375,rice,97.0,59.0,43.0,84.0,6.3
+2899,Virginia,Manassas City,14,275.0,144.5,rice,97.0,59.0,43.0,84.0,6.3
+2900,Virginia,Manassas Park City,14,282.0,148.0,rice,97.0,59.0,43.0,84.0,6.3
+2915,Virginia,Waynesboro City,13,277.5,145.25,rice,97.0,59.0,43.0,84.0,6.3
+2918,Washington,Adams County,11,44.5,27.75,mothbeans,36.0,44.0,21.0,51.3,4.5
+2920,Washington,Benton County,12,36.25,24.125,muskmelon,95.0,7.0,45.0,90.8,6.0
+2924,Washington,Columbia County,9,123.75,66.375,banana,109.0,91.0,53.0,83.5,6.0
+2926,Washington,Douglas County,9,55.25,32.125,lentil,6.0,68.0,18.0,62.5,6.7
+2927,Washington,Ferry County,7,107.25,57.125,cotton,113.0,41.0,20.0,80.5,7.3
+2928,Washington,Franklin County,12,37.5,24.75,muskmelon,95.0,7.0,45.0,90.8,6.0
+2929,Washington,Garfield County,10,92.0,51.0,blackgram,58.0,73.0,16.0,65.7,6.9
+2930,Washington,Grant County,11,35.5,23.25,muskmelon,95.0,7.0,45.0,90.8,6.0
+2935,Washington,Kitsap County,11,291.5,151.25,rice,97.0,59.0,43.0,84.0,6.3
+2937,Washington,Klickitat County,10,112.5,61.25,cotton,113.0,41.0,20.0,80.5,7.3
+2939,Washington,Lincoln County,9,52.0,30.5,mothbeans,36.0,44.0,21.0,51.3,4.5
+2941,Washington,Okanogan County,7,134.5,70.75,apple,33.0,143.0,204.0,92.0,5.8
+2943,Washington,Pend Oreille County,7,169.0,88.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+2945,Washington,San Juan County,11,183.5,97.25,coconut,40.0,22.0,29.0,100.0,5.7
+2949,Washington,Spokane County,9,92.0,50.5,blackgram,58.0,73.0,16.0,65.7,6.9
+2950,Washington,Stevens County,8,112.5,60.25,cotton,113.0,41.0,20.0,80.5,7.3
+2953,Washington,Walla Walla County,12,63.5,37.75,lentil,6.0,68.0,18.0,62.5,6.7
+2955,Washington,Whitman County,11,82.0,46.5,blackgram,58.0,73.0,16.0,65.7,6.9
+2956,Washington,Yakima County,9,140.25,74.625,apple,33.0,143.0,204.0,92.0,5.8
+2957,West Virginia,Barbour County,12,284.5,148.25,rice,97.0,59.0,43.0,84.0,6.3
+2960,West Virginia,Braxton County,13,287.0,150.0,rice,97.0,59.0,43.0,84.0,6.3
+2964,West Virginia,Clay County,13,287.0,150.0,rice,97.0,59.0,43.0,84.0,6.3
+2965,West Virginia,Doddridge County,12,288.25,150.125,rice,97.0,59.0,43.0,84.0,6.3
+2973,West Virginia,Harrison County,12,279.5,145.75,rice,97.0,59.0,43.0,84.0,6.3
+2975,West Virginia,Jefferson County,13,278.25,145.625,rice,97.0,59.0,43.0,84.0,6.3
+2976,West Virginia,Kanawha County,13,288.25,150.625,rice,97.0,59.0,43.0,84.0,6.3
+2977,West Virginia,Lewis County,12,285.75,148.875,rice,97.0,59.0,43.0,84.0,6.3
+2980,West Virginia,McDowell County,12,289.0,150.5,rice,97.0,59.0,43.0,84.0,6.3
+2981,West Virginia,Marion County,12,280.0,146.0,rice,97.0,59.0,43.0,84.0,6.3
+2982,West Virginia,Marshall County,11,296.0,153.5,rice,97.0,59.0,43.0,84.0,6.3
+2983,West Virginia,Mason County,12,285.75,148.875,rice,97.0,59.0,43.0,84.0,6.3
+2987,West Virginia,Monongalia County,12,294.75,153.375,rice,97.0,59.0,43.0,84.0,6.3
+2991,West Virginia,Ohio County,11,283.25,147.125,rice,97.0,59.0,43.0,84.0,6.3
+2992,West Virginia,Pendleton County,11,277.5,144.25,rice,97.0,59.0,43.0,84.0,6.3
+2993,West Virginia,Pleasants County,12,278.75,145.375,rice,97.0,59.0,43.0,84.0,6.3
+3002,West Virginia,Taylor County,12,278.75,145.375,rice,97.0,59.0,43.0,84.0,6.3
+3004,West Virginia,Tyler County,12,286.5,149.25,rice,97.0,59.0,43.0,84.0,6.3
+3008,West Virginia,Wetzel County,12,295.25,153.625,rice,97.0,59.0,43.0,84.0,6.3
+3012,Wisconsin,Adams County,8,196.25,102.125,coconut,40.0,22.0,29.0,100.0,5.7
+3014,Wisconsin,Barron County,7,184.75,95.875,jute,86.0,40.0,39.0,88.2,6.2
+3015,Wisconsin,Bayfield County,6,152.5,79.25,kidneybeans,25.0,76.0,24.0,24.9,5.6
+3016,Wisconsin,Brown County,8,209.0,108.5,coffee,91.0,21.0,26.0,57.4,7.3
+3017,Wisconsin,Buffalo County,8,188.0,98.0,coconut,40.0,22.0,29.0,100.0,5.7
+3018,Wisconsin,Burnett County,7,156.75,81.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3019,Wisconsin,Calumet County,8,219.0,113.5,coffee,91.0,21.0,26.0,57.4,7.3
+3020,Wisconsin,Chippewa County,7,197.5,102.25,coconut,40.0,22.0,29.0,100.0,5.7
+3021,Wisconsin,Clark County,8,209.5,108.75,coffee,91.0,21.0,26.0,57.4,7.3
+3022,Wisconsin,Columbia County,9,165.0,87.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3023,Wisconsin,Crawford County,9,190.5,99.75,coconut,40.0,22.0,29.0,100.0,5.7
+3024,Wisconsin,Dane County,9,171.5,90.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3025,Wisconsin,Dodge County,9,173.25,91.125,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3026,Wisconsin,Door County,8,175.25,91.625,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3027,Wisconsin,Douglas County,6,162.0,84.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3028,Wisconsin,Dunn County,8,186.0,97.0,coconut,40.0,22.0,29.0,100.0,5.7
+3029,Wisconsin,Eau Claire County,8,196.75,102.375,coconut,40.0,22.0,29.0,100.0,5.7
+3031,Wisconsin,Fond du Lac County,9,192.5,100.75,coconut,40.0,22.0,29.0,100.0,5.7
+3032,Wisconsin,Forest County,6,185.5,95.75,jute,86.0,40.0,39.0,88.2,6.2
+3035,Wisconsin,Green Lake County,9,186.75,97.875,coconut,40.0,22.0,29.0,100.0,5.7
+3036,Wisconsin,Iowa County,9,158.75,83.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3037,Wisconsin,Iron County,5,170.75,87.875,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3038,Wisconsin,Jackson County,8,214.75,111.375,coffee,91.0,21.0,26.0,57.4,7.3
+3039,Wisconsin,Jefferson County,9,169.5,89.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3040,Wisconsin,Juneau County,8,203.75,105.875,coconut,40.0,22.0,29.0,100.0,5.7
+3041,Wisconsin,Kenosha County,10,148.0,79.0,kidneybeans,25.0,76.0,24.0,24.9,5.6
+3042,Wisconsin,Kewaunee County,8,198.75,103.375,coconut,40.0,22.0,29.0,100.0,5.7
+3044,Wisconsin,Lafayette County,9,174.0,91.5,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3045,Wisconsin,Langlade County,6,211.5,108.75,coffee,91.0,21.0,26.0,57.4,7.3
+3046,Wisconsin,Lincoln County,6,210.75,108.375,coffee,91.0,21.0,26.0,57.4,7.3
+3047,Wisconsin,Manitowoc County,8,215.25,111.625,coffee,91.0,21.0,26.0,57.4,7.3
+3049,Wisconsin,Marinette County,7,168.25,87.625,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3051,Wisconsin,Menominee County,7,201.25,104.125,coconut,40.0,22.0,29.0,100.0,5.7
+3052,Wisconsin,Milwaukee County,10,161.25,85.625,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3053,Wisconsin,Monroe County,8,210.25,109.125,coffee,91.0,21.0,26.0,57.4,7.3
+3054,Wisconsin,Oconto County,7,189.75,98.375,coconut,40.0,22.0,29.0,100.0,5.7
+3055,Wisconsin,Oneida County,6,196.25,101.125,coconut,40.0,22.0,29.0,100.0,5.7
+3056,Wisconsin,Outagamie County,8,216.0,112.0,coffee,91.0,21.0,26.0,57.4,7.3
+3057,Wisconsin,Ozaukee County,9,170.25,89.625,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3058,Wisconsin,Pepin County,8,171.5,89.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3059,Wisconsin,Pierce County,8,163.25,85.625,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3060,Wisconsin,Polk County,7,165.0,86.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3062,Wisconsin,Price County,6,172.0,89.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3066,Wisconsin,Rusk County,7,193.75,100.375,coconut,40.0,22.0,29.0,100.0,5.7
+3068,Wisconsin,Sauk County,8,171.5,89.75,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3069,Wisconsin,Sawyer County,6,176.0,91.0,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3070,Wisconsin,Shawano County,8,215.25,111.625,coffee,91.0,21.0,26.0,57.4,7.3
+3071,Wisconsin,Sheboygan County,9,191.25,100.125,coconut,40.0,22.0,29.0,100.0,5.7
+3072,Wisconsin,Taylor County,7,203.25,105.125,coconut,40.0,22.0,29.0,100.0,5.7
+3073,Wisconsin,Trempealeau County,8,203.25,105.625,coconut,40.0,22.0,29.0,100.0,5.7
+3074,Wisconsin,Vernon County,8,204.5,106.25,coffee,91.0,21.0,26.0,57.4,7.3
+3076,Wisconsin,Walworth County,9,165.75,87.375,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3077,Wisconsin,Washburn County,6,174.5,90.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3078,Wisconsin,Washington County,8,174.5,91.25,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3079,Wisconsin,Waukesha County,9,170.25,89.625,pigeonpeas,5.0,62.0,23.0,66.5,4.7
+3081,Wisconsin,Waushara County,8,200.0,104.0,coconut,40.0,22.0,29.0,100.0,5.7
+3082,Wisconsin,Winnebago County,9,216.5,112.75,coffee,91.0,21.0,26.0,57.4,7.3
+3084,Wyoming,Albany County,5,82.5,43.75,chickpea,38.0,60.0,76.0,17.8,8.9
+3085,Wyoming,Big Horn County,7,63.5,35.25,lentil,6.0,68.0,18.0,62.5,6.7
+3086,Wyoming,Campbell County,8,62.25,35.125,lentil,6.0,68.0,18.0,62.5,6.7
+3087,Wyoming,Carbon County,6,92.75,49.375,blackgram,58.0,73.0,16.0,65.7,6.9
+3089,Wyoming,Crook County,8,71.75,39.875,lentil,6.0,68.0,18.0,62.5,6.7
+3090,Wyoming,Fremont County,6,90.25,48.125,blackgram,58.0,73.0,16.0,65.7,6.9
+3092,Wyoming,Hot Springs County,7,80.0,43.5,chickpea,38.0,60.0,76.0,17.8,8.9
+3093,Wyoming,Johnson County,7,69.75,38.375,lentil,6.0,68.0,18.0,62.5,6.7
+3094,Wyoming,Laramie County,8,88.25,48.125,blackgram,58.0,73.0,16.0,65.7,6.9
+3095,Wyoming,Lincoln County,4,120.75,62.375,cotton,113.0,41.0,20.0,80.5,7.3
+3097,Wyoming,Niobrara County,8,92.75,50.375,blackgram,58.0,73.0,16.0,65.7,6.9
+3098,Wyoming,Park County,4,111.75,57.875,cotton,113.0,41.0,20.0,80.5,7.3
+3099,Wyoming,Platte County,8,73.0,40.5,lentil,6.0,68.0,18.0,62.5,6.7
+3100,Wyoming,Sheridan County,7,85.75,46.375,blackgram,58.0,73.0,16.0,65.7,6.9
+3101,Wyoming,Sublette County,3,102.25,52.625,blackgram,58.0,73.0,16.0,65.7,6.9
+3102,Wyoming,Sweetwater County,6,58.5,32.25,lentil,6.0,68.0,18.0,62.5,6.7
+3103,Wyoming,Teton County,2,190.5,96.25,coconut,40.0,22.0,29.0,100.0,5.7
+3104,Wyoming,Uinta County,5,75.0,40.0,lentil,6.0,68.0,18.0,62.5,6.7
+3105,Wyoming,Washakie County,7,68.0,37.5,lentil,6.0,68.0,18.0,62.5,6.7
+3106,Wyoming,Weston County,8,82.0,45.0,blackgram,58.0,73.0,16.0,65.7,6.9
+3110,Alaska,Bethel Census Area,-1,154.25,76.625,apple,33.0,143.0,204.0,92.0,5.8
+3111,Alaska,Bristol Bay Borough,2,148.5,75.25,apple,33.0,143.0,204.0,92.0,5.8
+3112,Alaska,Denali Borough,-3,146.0,71.5,apple,33.0,143.0,204.0,92.0,5.8
+3114,Alaska,Fairbanks North Star Borough,-3,111.0,54.0,blackgram,58.0,73.0,16.0,65.7,6.9
+3123,Alaska,Matanuska-Susitna Borough,-2,212.75,105.375,coconut,40.0,22.0,29.0,100.0,5.7
+3124,Alaska,Nome Census Area,-4,146.0,71.0,apple,33.0,143.0,204.0,92.0,5.8
+3125,Alaska,North Slope Borough,-9,87.75,39.375,lentil,6.0,68.0,18.0,62.5,6.7
+3126,Alaska,Northwest Arctic Borough,-6,134.5,64.25,cotton,113.0,41.0,20.0,80.5,7.3
+3131,Alaska,Southeast Fairbanks Census Area,-4,120.75,58.375,cotton,113.0,41.0,20.0,80.5,7.3
+3135,Alaska,Yukon-Koyukuk Census Area,-4,108.0,52.0,blackgram,58.0,73.0,16.0,65.7,6.9
