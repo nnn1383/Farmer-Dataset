@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataCollection>
+  <description>
+    <title>November 2020 - October 2021 Contiguous U.S. County Average Temperature</title>
+    <units>Degrees Fahrenheit</units>
+    <missing>-99</missing>
+    <anomaly>1901-2000 base period</anomaly>
+    <rank>126 years</rank>
+    <mean>1901-2000</mean>
+  </description>
+</dataCollection>
